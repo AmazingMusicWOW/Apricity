@@ -1,6 +1,8 @@
+
 {
 	"wallpapers": [
-		{
+
+                {
 			"name": "Apricity Desert 1",
 			"author": "Mathy Eckerdt",
 			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/ApricityDesert1.png"
@@ -111,7 +113,7 @@
 			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/ItachiWall1.png"
 		},
 		{
-			"name": "Itachi Wall 2,
+			"name": "Itachi Wall 2",
 			"author": "Mathy Eckerdt",
 			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/ItachiWall2.png"
 		},
@@ -231,3 +233,4 @@
 			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SimpleWall7.png"
 		}
 	]
+}
