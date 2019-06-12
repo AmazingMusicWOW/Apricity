@@ -456,7 +456,22 @@
 		{
 			"name": "Simple House 3",
 			"author": "Mathy Eckerdt",
-			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SimpleHouse3.png"	
+			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SimpleHouse3.png"
+                },
+		{
+			"name": "Apricity Flamingo",
+			"author": "Mathy Eckerdt",
+			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/ApricityFlamingo.png"
+                },
+		{
+			"name": "Apricity Flamingo 1",
+			"author": "Mathy Eckerdt",
+			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/ApricityFlamingo1.png"
+                },
+		{
+			"name": "Apricity Flamingo 2",
+			"author": "Mathy Eckerdt",
+			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/ApricityFlamingo2.png"	
 			
 		
 		}
