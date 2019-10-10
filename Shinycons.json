@@ -1,1 +1,191 @@
+ 
 
+{
+	"wallpapers": [
+
+                {
+			"name": "Beauty Desert",
+			"author": "Mathy Eckerdt",
+			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyDesert.png"
+		},
+		{
+			"name": "Beauty Desert 1",
+			"author": "Mathy Eckerdt",
+			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyDesert1.png"
+		},
+		{
+			"name": "Beauty Desert 2",
+			"author": "Mathy Eckerdt",
+			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyDesert2.png"
+		},
+		{
+			"name": "Beauty Desert 3",
+			"author": "Mathy Eckerdt",
+			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyDesert3.png"
+		},
+		{
+			"name": "Beauty Desert 4",
+			"author": "Mathy Eckerdt",
+			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyDesert4.png"
+		},
+		{
+			"name": "Beauty Sunset",
+			"author": "Mathy Eckerdt",
+			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySunset.png"
+		},
+		{
+			"name": "Beauty Sunset 1",
+			"author": "Mathy Eckerdt",
+			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySunset1.png"
+		},
+		{
+			"name": "Beauty Sunset 2",
+			"author": "Mathy Eckerdt",
+			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySunset2.png"
+		},
+		{
+			"name": "Beauty Sunset 3",
+			"author": "Mathy Eckerdt",
+			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySunset3.png"
+		},
+		{
+			"name": "Beauty Sunset 4",
+			"author": "John Towner",
+			"url": " https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySunset4.png"
+		},
+		{
+			"name": "Beauty Sunset 5",
+			"author": "Mathy Eckerdt",
+			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySunset5.png"
+		},
+		{
+			"name": "Beauty Sunset 6",
+			"author": "Mathy Eckerdt",
+			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySunset6.png"
+		},
+		{
+			"name": "Minimal House 1",
+			"author": "Mathy Eckerdt",
+			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalHouse1.png"
+		},
+		{
+			"name": "Minimal House 2",
+			"author": "Mathy Eckerdt",
+			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalHouse2.png"
+
+		},
+		{
+			"name": "Minimal House 3",
+			"author": "Mathy Eckerdt",
+			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalHouse3.png"
+
+		},
+		{
+			"name": "Minimalist Desert",
+			"author": "Mathy Eckerdt",
+			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalistDesert.png"
+	
+		},
+		{
+			"name": "Minimalist Desert 1",
+			"author": "Mathy Eckerdt",
+			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalistDesert1.png"
+    },
+		{
+			"name": "Minimalist Desert 2",
+			"author": "Mathy Eckerdt",
+			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalistDesert2.png"
+    },
+		{
+			"name": "Minimalist Desert 3",
+			"author": "Mathy Eckerdt",
+			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalistDesert3.png"
+    },
+		{
+			"name": "Minimal Mountain",
+			"author": "Mathy Eckerdt",
+			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalMountain.png"
+    },
+		{
+			"name": "Minimal Mountain 1",
+			"author": "Mathy Eckerdt",
+			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalMountain1.png"
+    },
+		{
+			"name": "Minimal Mountain 2",
+			"author": "Mathy Eckerdt",
+			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalMountain2.png"
+
+		},
+		{
+			"name": "Minimal Mountain 3",
+			"author": "Mathy Eckerdt",
+			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalMountain3.png"
+     },
+		 {
+			"name": "Minimal Mountain 4",
+			"author": "Mathy Eckerdt",
+			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalMountain4.png"
+     },
+		 {
+			"name": "Minimal Mountain 5",
+			"author": "Mathy Eckerdt",
+			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalMountain5.png"
+     },
+		 {
+			"name": "Mountain Wizard",
+			"author": "Mathy Eckerdt",
+			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MountainWizard.png"
+
+     },
+		 {
+			"name": "Mountain Wizard 1",
+			"author": "Mathy Eckerdt",
+			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MountainWizard.png"
+     },
+		 {
+			"name": "Simple Building",
+			"author": "Mathy Eckerdt",
+			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SimpleBuilding.png"
+     },
+		 {
+			"name": "Simple Building 1",
+			"author": "Mathy Eckerdt",
+			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SimpleBuilding1.png"
+     },
+		 {
+			"name": "Simple Building 2",
+			"author": "Mathy Eckerdt",
+			"url": " https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SimpleBuilding2.png"
+     },
+		 {
+			"name": "Waves Mountain",
+			"author": "Mathy Eckerdt",
+			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/WaveMountains.png"
+     },
+		 {
+			"name": "Waves",
+			"author": "Mathy Eckerdt",
+			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Waves.png"
+     },
+		 {
+			"name": "Waves 1",
+			"author": "Mathy Eckerdt",
+			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Waves1.png"
+     },
+		 {
+			"name": "Waves 2",
+			"author": "Mathy Eckerdt",
+			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Waves2.png"
+     },
+		 {
+			"name": "Waves 3",
+			"author": "Mathy Eckerdt",
+			"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Waves3.png"
+   
+
+
+
+		}
+	]
+}
