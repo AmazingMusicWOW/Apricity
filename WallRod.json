@@ -332,7 +332,7 @@
 		"name": "Plane Sunset Gray",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PlaneSunsetGray.png",
-		"collections": "Landscapes",
+		"collections": "Landscapes,Gray",
 		"downloadable": true,
                 "dimensions": "2000 x 4000 px"
         },
