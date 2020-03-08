@@ -185,6 +185,14 @@
                 "dimensions": "2000 x 4000 px"
         },
 	{
+		"name": "Sunset Sky",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SunsetSky.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
 		"name": "Day Boat",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DayBoat.png",
