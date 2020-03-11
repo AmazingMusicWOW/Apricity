@@ -1,6 +1,38 @@
 [
 	{
-		"name": "Africa",
+		"name": "Beauty Amoled Forest",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyAmoledForest.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beauty Colors Forest",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyColorsForest.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Jungle 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Jungle1.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beauty Train Bridge 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyTrainBridge1.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+        {           
+                "name": "Africa",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Africa.png",
 		"collections": "Landscapes",
