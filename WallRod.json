@@ -24,6 +24,14 @@
                 "dimensions": "2000 x 4000 px"
         },
 	{
+		"name": "Beauty Gray Forest",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyGrayForest.png",
+		"collections": "Landscapes,gray",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
 		"name": "Beauty Amoled Forest",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyAmoledForest.png",
