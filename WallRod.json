@@ -23,13 +23,13 @@
 		"downloadable": true,
                 "dimensions": "2000 x 4000 px"
         },
-        }
-                "name": "Beauty Amoled Forest",
+	{
+		"name": "Beauty Amoled Forest",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyAmoledForest.png",
 		"collections": "Landscapes",
 		"downloadable": true,
-		"dimensions": "2000 x 4000 px"
+                "dimensions": "2000 x 4000 px"
         },
 	{
 		"name": "Beauty Colors Forest",
