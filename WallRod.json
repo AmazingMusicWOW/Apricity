@@ -1,4 +1,20 @@
 [
+	{       
+                "name": "Firewatch Style",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FirewatchStyle.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Firewatch Style 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FirewatchStyle1.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
 	{
 		"name": "Gradient Desert",
 		"author": "Matias Eckerdt",
