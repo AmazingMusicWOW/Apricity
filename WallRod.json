@@ -1,5 +1,45 @@
 [
 	{       
+                "name": "Deadpool 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DeadPool2.png",
+		"collections": "Hero",
+		"downloadable": true,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Deadpool 3",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DeadPool3.png",
+		"collections": "Hero",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Deadpool 4",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DeadPool4.png",
+		"collections": "Hero",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Deadpool 5",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DeadPool5.png",
+		"collections": "Hero",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Deadpool 6",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DeadPool6.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
                 "name": "Firewatch Style",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FirewatchStyle.png",
