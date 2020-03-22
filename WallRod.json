@@ -40,6 +40,22 @@
                 "dimensions": "2000 x 4000 px"
         },
 	{
+		"name": "Plane Sunset 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PlaneSunset1.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Plane Sunset Amoled",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PlaneSunsetAmoled.png",
+		"collections": "Landscapes,Amoled",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
                 "name": "Firewatch Style",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FirewatchStyle.png",
@@ -91,7 +107,7 @@
 		"name": "Beauty Amoled Forest",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyAmoledForest.png",
-		"collections": "Landscapes",
+		"collections": "Landscapes,Amoled",
 		"downloadable": true,
                 "dimensions": "2000 x 4000 px"
         },
@@ -532,7 +548,7 @@
 		"name": "SpacePlanetAmoled",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SpacePlanetAmoled.png",
-		"collections": "Space",
+		"collections": "Space,Amoled",
 		"downloadable": true,
                 "dimensions": "2000 x 4000 px"
         },
