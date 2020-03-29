@@ -1,5 +1,37 @@
 [
 	{       
+                "name": "Amoled Forest Deer",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmoledForestDeer.png",
+		"collections": "Landscapes,Amoled",
+		"downloadable": true,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Amoled Forest Deer 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmoledForestDeer1.png",
+		"collections": "Landscapes,Amoled",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Amoled Forest Deer 2 ",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmoledForestDeer2.png",
+		"collections": "Landscapes,Amoled",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Amoled Forest Deer 3",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmoledForestDeer3.png",
+		"collections": "Landscapes,Amoled",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
                 "name": "Japan Tori Fox",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanToriFox.png",
@@ -27,7 +59,7 @@
 		"name": "Japan Tori Fox 3",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanToriFox3.png",
-		"collections": "Landscapes",
+		"collections": "Landscapes,Amoled",
 		"downloadable": true,
                 "dimensions": "2000 x 4000 px"
         },
@@ -433,7 +465,7 @@
                 "dimensions": "2000 x 4000 px"
         },
 	{
-		"name": "GrayDeer",
+		"name": "Gray Deer",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GrayDeer.png",
 		"collections": "Landscapes,Deer,Gray",
@@ -588,7 +620,7 @@
 		"name": "Stars View",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/StarsView.png",
-		"collections": "Space",
+		"collections": "Space,Landscape",
 		"downloadable": true,
                 "dimensions": "2000 x 4000 px"
         },
@@ -596,7 +628,7 @@
 		"name": "Stars View 1",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/StarsView1.png",
-		"collections": "Landscapes",
+		"collections": "Landscapes,Space",
 		"downloadable": true,
                 "dimensions": "2000 x 4000 px"
         },
@@ -652,7 +684,7 @@
 		"name": "Window View Amoled",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/WindowViewAmoled.png",
-		"collections": "Landscapes",
+		"collections": "Landscapes,Amoled",
 		"downloadable": true,
                 "dimensions": "2000 x 4000 px"
         },
