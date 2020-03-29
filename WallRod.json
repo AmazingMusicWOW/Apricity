@@ -147,7 +147,7 @@
 		"name": "Gradient Desert 1",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GradientDesert1.png",
-		"collections": "Landscapes",
+		"collections": "Landscapes,Desert",
 		"downloadable": true,
                 "dimensions": "2000 x 4000 px"
         },
@@ -155,7 +155,7 @@
 		"name": "Gradient Desert 2",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GradientDesert2.png",
-		"collections": "Landscapes",
+		"collections": "Landscapes,Desert",
 		"downloadable": true,
                 "dimensions": "2000 x 4000 px"
         },
