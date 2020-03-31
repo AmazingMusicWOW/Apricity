@@ -1,5 +1,37 @@
 [
 	{       
+                "name": "Mountains Tree",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MountainsTree.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Mountains Tree 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MountainsTree1.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Mountains Tree 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MountainsTree2.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Mountains Tree Amoled",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MountainsTreeAmoled.png",
+		"collections": "Landscapes,Amoled",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
                 "name": "Amoled Forest Deer",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmoledForestDeer.png",
