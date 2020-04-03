@@ -67,7 +67,7 @@
                 "name": "Amoled Forest Deer",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmoledForestDeer.png",
-		"collections": "Landscapes,Amoled",
+		"collections": "Landscapes,Amoled,Deer",
 		"downloadable": true,
 		"dimensions": "2000 x 4000 px"
         },
@@ -75,7 +75,7 @@
 		"name": "Amoled Forest Deer 1",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmoledForestDeer1.png",
-		"collections": "Landscapes,Amoled",
+		"collections": "Landscapes,Amoled,Deer",
 		"downloadable": true,
                 "dimensions": "2000 x 4000 px"
         },
@@ -83,7 +83,7 @@
 		"name": "Amoled Forest Deer 2 ",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmoledForestDeer2.png",
-		"collections": "Landscapes,Amoled",
+		"collections": "Landscapes,Amoled,Deer",
 		"downloadable": true,
                 "dimensions": "2000 x 4000 px"
         },
@@ -91,7 +91,7 @@
 		"name": "Amoled Forest Deer 3",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmoledForestDeer3.png",
-		"collections": "Landscapes,Amoled",
+		"collections": "Landscapes,Amoled,Deer",
 		"downloadable": true,
                 "dimensions": "2000 x 4000 px"
         },
