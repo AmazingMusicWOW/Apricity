@@ -3,7 +3,7 @@
                 "name": "Skater",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Skater.png",
-		"collections": "Landscapes,Skater",
+		"collections": "Skater",
 		"downloadable": true,
 		"dimensions": "2000 x 4000 px"
         },
@@ -11,7 +11,7 @@
 		"name": "Skater 1",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Skater1.png",
-		"collections": "Landscapes,Skater",
+		"collections": "Skater",
 		"downloadable": true,
                 "dimensions": "2000 x 4000 px"
         },
@@ -19,7 +19,7 @@
 		"name": "Skater 2",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Skater2.png",
-		"collections": "Landscapes,Skater",
+		"collections": "Skater",
 		"downloadable": true,
                 "dimensions": "2000 x 4000 px"
         },
@@ -27,7 +27,7 @@
 		"name": "Skater 3",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Skater3.png",
-		"collections": "Landscapes,Skater",
+		"collections": "Skater",
 		"downloadable": true,
                 "dimensions": "2000 x 4000 px"
         },
