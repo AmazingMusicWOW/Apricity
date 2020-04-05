@@ -1,5 +1,45 @@
 [
 	{       
+                "name": "Pixel Style 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle2.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Pixel Style 3",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle3.png",
+		"collections": "Pixel",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Pixel Style 4",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle4.png",
+		"collections": "Pixel",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Pixel Style 5",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle5.png",
+		"collections": "Pixel",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Pixel Style Amoled",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyleAmoled.png",
+		"collections": "Pixel,Amoled",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
                 "name": "Skater",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Skater.png",
