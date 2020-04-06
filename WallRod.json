@@ -1,5 +1,37 @@
 [
 	{       
+                "name": "Alone Fox",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneFox.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Alone Fox 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneFox2.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Alone Fox 3",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneFox3.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Alone fox Amoled",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneFoxAmoled.png",
+		"collections": "Landscapes,Amoled",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
                 "name": "Pixel Style 2",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle2.png",
