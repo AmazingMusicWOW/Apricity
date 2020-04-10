@@ -1,5 +1,37 @@
 [
 	{       
+                "name": "Beauty Tree",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyTree.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beauty Tree 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyTree1.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beauty Tree 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyTree2.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beauty Tree Night",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyTreeNight.png",
+		"collections": "Landscapes",
+		"downloadable": true,
+                "dimensions": "2000 x 4000 px"
+        },
+        {
                 "name": "Wave Mountains",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/WaveMountains.png",
@@ -535,22 +567,7 @@
 		"collections": "Landscapes",
 		"downloadable": true,
                 "dimensions": "2000 x 4000 px"
-        },
-	{
-		"name": "Beauty Tree",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyTree.png",
-		"collections": "Landscapes",
-		"downloadable": true,
-                "dimensions": "2000 x 4000 px"
-        },
-	{
-		"name": "Beauty Tree 2",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyTree2.png",
-		"collections": "Landscapes",
-		"downloadable": true,
-                "dimensions": "2000 x 4000 px"
+		
         },
 	{
 		"name": "Blue Sky",
