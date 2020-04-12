@@ -3,7 +3,7 @@
                 "name": "Beauty Space",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySpace.png",
-		"collections": "Landscapes",
+		"collections": "Space",
 		"downloadable": true,
 		"dimensions": "2000 x 4000 px"
         },
@@ -11,7 +11,7 @@
 		"name": "Beauty Space 1",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySpace2.png",
-		"collections": "Landscapes",
+		"collections": "Space",
 		"downloadable": true,
                 "dimensions": "2000 x 4000 px"
         },
@@ -19,7 +19,7 @@
 		"name": "Beauty Space Amoled",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySpaceAmoled.png",
-		"collections": "Landscapes",
+		"collections": "Space,Amoled",
 		"downloadable": true,
                 "dimensions": "2000 x 4000 px"
         },
@@ -27,7 +27,7 @@
 		"name": "Beauty Space Amoled 1",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySpaceAmoled1.png",
-		"collections": "Landscapes",
+		"collections": "Space,Amoled",
 		"downloadable": true,
                 "dimensions": "2000 x 4000 px"
         },
