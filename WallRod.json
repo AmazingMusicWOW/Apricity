@@ -12,7 +12,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/CabinInTheForest1.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -20,7 +20,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/CabinInTheForest2.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -28,7 +28,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/CabinInTheForest3.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -36,7 +36,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyDesertNight.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
 		"dimensions": "2000 x 4000 px"
         },
 	{
@@ -44,7 +44,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DesertNight.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -52,7 +52,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanMountain.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
 		"dimensions": "2000 x 4000 px"
         },
 	{
@@ -60,7 +60,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanMountain1.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -68,7 +68,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanMountain2.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -76,7 +76,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanMountainNight.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -84,7 +84,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle6.png",
 		"collections": "Pixel",
-		"downloadable": true,
+		"downloadable": false,
 		"dimensions": "2000 x 4000 px"
         },
 	{
@@ -92,7 +92,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle7.png",
 		"collections": "Pixel",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -100,7 +100,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle8.png",
 		"collections": "Pixel",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -108,7 +108,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle8Amoled.png",
 		"collections": "Pixel",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -116,7 +116,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmzingDesertSunsetGray.png",
 		"collections": "Gray",
-		"downloadable": true,
+		"downloadable": false,
 		"dimensions": "2000 x 4000 px"
         },
 	{
@@ -124,7 +124,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyDesertGray.png",
 		"collections": "Gray",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -132,7 +132,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyLandscapeGray.png",
 		"collections": "Gray",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -140,7 +140,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SunsetSkyGray.png",
 		"collections": "Gray",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -148,7 +148,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyTree2Grain.jpg",
 		"collections": "Grain",
-		"downloadable": true,
+		"downloadable": false,
 		"dimensions": "2000 x 4000 px"
         },
 	{
@@ -156,7 +156,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FirewatchStyleGrain.jpg",
 		"collections": "Grain",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -164,7 +164,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/ForestSunsetGrain.jpg",
 		"collections": "Grain",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -172,7 +172,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GradientDeerGrain.jpg",
 		"collections": "Grain",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -180,7 +180,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MountainsTree2Grain.jpg",
 		"collections": "Grain",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -188,7 +188,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/RocketSpaceGrain.jpg",
 		"collections": "Grain",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -196,7 +196,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySpace.png",
 		"collections": "Space",
-		"downloadable": true,
+		"downloadable": false,
 		"dimensions": "2000 x 4000 px"
         },
 	{
@@ -204,7 +204,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySpace2.png",
 		"collections": "Space",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -212,7 +212,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySpaceAmoled.png",
 		"collections": "Space,Amoled",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -220,7 +220,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySpaceAmoled1.png",
 		"collections": "Space,Amoled",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -228,7 +228,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyTree.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -236,7 +236,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyTree1.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -244,7 +244,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyTree2.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -252,7 +252,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyTreeNight.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
         {
@@ -260,7 +260,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/WaveMountains.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
 		"dimensions": "2000 x 4000 px"
         },
 	{
@@ -268,7 +268,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/WaveMountains1.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -276,7 +276,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/WaveMountainsAmoled.png",
 		"collections": "Landscapes,Amoled",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -284,7 +284,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/WaveMountainsAmoled1.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -292,7 +292,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneFox.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
 		"dimensions": "2000 x 4000 px"
         },
 	{
@@ -300,7 +300,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneFox2.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -308,7 +308,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneFox3.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -316,7 +316,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneFoxAmoled.png",
 		"collections": "Landscapes,Amoled",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -324,7 +324,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle2.png",
 		"collections": "Pixel",
-		"downloadable": true,
+		"downloadable": false,
 		"dimensions": "2000 x 4000 px"
         },
 	{
@@ -332,7 +332,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle3.png",
 		"collections": "Pixel",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -340,7 +340,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle4.png",
 		"collections": "Pixel",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -348,7 +348,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle5.png",
 		"collections": "Pixel",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -356,7 +356,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyleAmoled.png",
 		"collections": "Pixel,Amoled",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -364,7 +364,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Skater.png",
 		"collections": "Skater",
-		"downloadable": true,
+		"downloadable": false,
 		"dimensions": "2000 x 4000 px"
         },
 	{
@@ -372,7 +372,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Skater1.png",
 		"collections": "Skater",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -380,7 +380,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Skater2.png",
 		"collections": "Skater",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -388,7 +388,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Skater3.png",
 		"collections": "Skater",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -396,7 +396,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MountainsTree.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
 		"dimensions": "2000 x 4000 px"
         },
 	{
@@ -404,7 +404,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MountainsTree1.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -412,7 +412,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MountainsTree2.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -420,7 +420,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MountainsTreeAmoled.png",
 		"collections": "Landscapes,Amoled",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -428,7 +428,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmoledForestDeer.png",
 		"collections": "Landscapes,Amoled,Deer",
-		"downloadable": true,
+		"downloadable": false,
 		"dimensions": "2000 x 4000 px"
         },
 	{
@@ -436,7 +436,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmoledForestDeer1.png",
 		"collections": "Landscapes,Amoled,Deer",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -444,7 +444,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmoledForestDeer2.png",
 		"collections": "Landscapes,Amoled,Deer",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -452,7 +452,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmoledForestDeer3.png",
 		"collections": "Landscapes,Amoled,Deer",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -460,7 +460,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanToriFox.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
 		"dimensions": "2000 x 4000 px"
         },
 	{
@@ -468,7 +468,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanToriFox1.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -476,7 +476,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanToriFox2.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -484,7 +484,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanToriFox3.png",
 		"collections": "Landscapes,Amoled",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -492,7 +492,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DeadPool2.png",
 		"collections": "Hero",
-		"downloadable": true,
+		"downloadable": false,
 		"dimensions": "2000 x 4000 px"
         },
 	{
@@ -500,7 +500,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DeadPool3.png",
 		"collections": "Hero",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -508,7 +508,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DeadPool4.png",
 		"collections": "Hero",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -516,7 +516,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DeadPool5.png",
 		"collections": "Hero",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -524,7 +524,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DeadPool6.png",
 		"collections": "Hero",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -532,7 +532,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PlaneSunset1.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -540,7 +540,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PlaneSunsetAmoled.png",
 		"collections": "Landscapes,Amoled",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -548,7 +548,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FirewatchStyle.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
 		"dimensions": "2000 x 4000 px"
         },
 	{
@@ -556,7 +556,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FirewatchStyle1.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -564,7 +564,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GradientDesert.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
 		"dimensions": "2000 x 4000 px"
         },
 	{
@@ -572,7 +572,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GradientDesert1.png",
 		"collections": "Landscapes,Desert",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -580,7 +580,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GradientDesert2.png",
 		"collections": "Landscapes,Desert",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -588,7 +588,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyGrayForest.png",
 		"collections": "Landscapes,Gray",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -596,7 +596,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyAmoledForest.png",
 		"collections": "Landscapes,Amoled",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -604,7 +604,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyColorsForest.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -612,7 +612,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Jungle1.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -620,7 +620,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyTrainBridge1.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
         {           
@@ -628,7 +628,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Africa.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
 		"dimensions": "2000 x 4000 px"
 	},
 	{
@@ -636,7 +636,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Africa2.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -644,7 +644,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneHouse1.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -652,7 +652,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneHouse2.png",
 		"collections": "Landscapes",
-   		"downloadable": true,
+   		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
 
         },
@@ -661,7 +661,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneInDesert.png",
 		"collections": "Desert",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"   
         },
 	{
@@ -669,7 +669,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneInDesert1.png",
 		"collections": "Desert",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -677,7 +677,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmazingDesertSunset.png",
 		"collections": "Desert",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -685,7 +685,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmazingDesertSunset1.png",
 		"collections": "Desert",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -693,7 +693,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautifulDayDesert.png",
 		"collections": "Desert",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -701,7 +701,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautifulNightDesert.png",
 		"collections": "Desert",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -709,7 +709,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautifulSunsetDeer.png",
 		"collections": "Landscapes,Deer",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -717,7 +717,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautifulSunsetDeer1.png",
 		"collections": "Landscapes,Deer",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -725,7 +725,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyColorsDesert.png",
 		"collections": "Landscapes,Desert",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -733,7 +733,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyColorsDesert1.png",
 		"collections": "Landscapes,Desert",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -741,7 +741,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyLandscape.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -749,7 +749,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyLandscape1.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -757,7 +757,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MountainsView.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -765,7 +765,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MountainsView1.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -773,7 +773,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyPlace.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -781,7 +781,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyPlace1.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -789,7 +789,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyTrainBridge.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
 		
         },
@@ -798,7 +798,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlueSky.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -806,7 +806,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SunsetSky.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -814,7 +814,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DayBoat.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -822,7 +822,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DeerNight.png",
 		"collections": "Landscapes,Deer",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -830,7 +830,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DeerNight1.png",
 		"collections": "Landscapes,Deer",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -838,7 +838,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DesertGray.png",
 		"collections": "Landscapes,Desert,Gray",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -846,7 +846,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/ForestSunset.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -854,7 +854,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/ForestSunsetNight.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -862,7 +862,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GradientDeer.png",
 		"collections": "Landscapes,Deer",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -870,7 +870,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GradientDeer1.png",
 		"collections": "Landscapes,Deer",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -878,7 +878,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GrayDeer.png",
 		"collections": "Landscapes,Deer,Gray",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -886,7 +886,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GrayMountain.png",
 		"collections": "Landscapes,Gray",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -894,7 +894,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Jungle.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -902,7 +902,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LightHouse.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -910,7 +910,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LightHouse1.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -918,7 +918,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle.png",
 		"collections": "Pixel",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -926,7 +926,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle1.png",
 		"collections": "Pixel",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -934,7 +934,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PlaneSunset.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -942,7 +942,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PlaneSunsetGray.png",
 		"collections": "Landscapes,Gray",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -950,7 +950,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PlayAgain.png",
 		"collections": "Space",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -958,7 +958,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PlayAgain1.png",
 		"collections": "Space",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -966,7 +966,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/RocketSpace.png",
 		"collections": "Space",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -974,7 +974,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/RocketSpace1.png",
 		"collections": "Space",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -982,7 +982,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SecretSword.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -990,7 +990,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SecretSword1.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -998,7 +998,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SecretSword3.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -1006,7 +1006,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SecretSword2.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -1014,7 +1014,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SpacePlanet.png",
 		"collections": "Space",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -1022,7 +1022,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SpacePlanetAmoled.png",
 		"collections": "Space,Amoled",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -1030,7 +1030,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/StarsView.png",
 		"collections": "Space,Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -1038,7 +1038,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/StarsView1.png",
 		"collections": "Landscapes,Space",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -1046,7 +1046,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/StrangePlanet.png",
 		"collections": "Space,Desert",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -1054,7 +1054,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/StrangePlanet1.png",
 		"collections": "Space,Desert",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -1062,7 +1062,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/StrangePlanetGray.png",
 		"collections": "Space,Desert,Gray",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -1070,7 +1070,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SunsetBoat.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -1078,7 +1078,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/TwocolorsMountain.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -1086,7 +1086,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/TwocolorsMountain1.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -1094,7 +1094,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/WindowViewAmoled.png",
 		"collections": "Landscapes,Amoled",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -1102,7 +1102,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/WindowView.png",
 		"collections": "Landscapes",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -1110,7 +1110,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmazingDesertSunsetGrain.jpg",
 		"collections": "Grain",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -1118,7 +1118,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GradientDesertGrain.jpg",
 		"collections": "Grain",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -1126,7 +1126,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanToriFoxGrain.jpg",
 		"collections": "Grain",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -1134,7 +1134,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MountainsTreeGrain.jpg",
 		"collections": "Grain",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -1142,7 +1142,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MountainsViewGrain.jpg",
 		"collections": "Grain",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -1150,7 +1150,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle1Grain.jpg",
 		"collections": "Grain",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
 	{
@@ -1158,7 +1158,7 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SkaterGrain.jpg",
 		"collections": "Grain",
-		"downloadable": true,
+		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         
 	}
