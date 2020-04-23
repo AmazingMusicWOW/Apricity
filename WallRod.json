@@ -174,54 +174,7 @@
 		"collections": "Gray",
 		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
-        },
-	{
-                "name": "Beauty Tree 2 Grain",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyTree2Grain.jpg",
-		"collections": "Grain",
-		"downloadable": false,
-		"dimensions": "2000 x 4000 px"
-        },
-	{
-		"name": "Firewatch Style Grain",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FirewatchStyleGrain.jpg",
-		"collections": "Grain",
-		"downloadable": false,
-                "dimensions": "2000 x 4000 px"
-        },
-	{
-		"name": "Forest Sunset Grain",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/ForestSunsetGrain.jpg",
-		"collections": "Grain",
-		"downloadable": false,
-                "dimensions": "2000 x 4000 px"
-        },
-	{
-		"name": "Gradient Deer Grain",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GradientDeerGrain.jpg",
-		"collections": "Grain",
-		"downloadable": false,
-                "dimensions": "2000 x 4000 px"
-        },
-	{
-		"name": "Mountains Tree 2 Grain",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MountainsTree2Grain.jpg",
-		"collections": "Grain",
-		"downloadable": false,
-                "dimensions": "2000 x 4000 px"
-        },
-	{
-		"name": "Rocket Space Grain",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/RocketSpaceGrain.jpg",
-		"collections": "Grain",
-		"downloadable": false,
-                "dimensions": "2000 x 4000 px"
+        
         },
 	{
                 "name": "Beauty Space",
@@ -1189,6 +1142,54 @@
 		"name": "Skater Grain",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SkaterGrain.jpg",
+		"collections": "Grain",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Beauty Tree 2 Grain",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyTree2Grain.jpg",
+		"collections": "Grain",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Firewatch Style Grain",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FirewatchStyleGrain.jpg",
+		"collections": "Grain",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Forest Sunset Grain",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/ForestSunsetGrain.jpg",
+		"collections": "Grain",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Gradient Deer Grain",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GradientDeerGrain.jpg",
+		"collections": "Grain",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Mountains Tree 2 Grain",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MountainsTree2Grain.jpg",
+		"collections": "Grain",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Rocket Space Grain",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/RocketSpaceGrain.jpg",
 		"collections": "Grain",
 		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
