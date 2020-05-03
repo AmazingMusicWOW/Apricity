@@ -1,5 +1,37 @@
 [
 	{       
+                "name": "Little House",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LittleHouse.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Little House 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LittleHouse1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Little House 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LittleHouse2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Little House Night",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LittleHouseNight.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
                 "name": "Pixel Style 9",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle9.png",
