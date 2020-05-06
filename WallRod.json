@@ -1,5 +1,37 @@
 [
 	{       
+                "name": "Piramid Desert",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PiramidDesert.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Piramid Desert1 ",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PiramidDesert1.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Piramid Desert 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PiramidDesert2.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Piramid Desert 3",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PiramidDesert3.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
                 "name": "Little House",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LittleHouse.png",
