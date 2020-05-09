@@ -1,5 +1,29 @@
 [
 	{       
+                "name": "Artwork Gray",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BatmanGray.png",
+		"collections": "Gray",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Alone Fox Gray",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneFoxGray.png",
+		"collections": "Gray",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Piramid Desert Gray",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GrayPiramidDesert.png",
+		"collections": "Gray",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
                 "name": "Piramid Desert",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PiramidDesert.png",
@@ -1365,6 +1389,30 @@
 		"name": "Rocket Space Grain",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/RocketSpaceGrain.jpg",
+		"collections": "Grain",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Alone Fox Grain",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneFoxAmoledGrain.png",
+		"collections": "Grain",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Alone Deer Mountains Grain",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneDeerMountainsGrain.png",
+		"collections": "Grain",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Little House Grain",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LittleHouseGrain.png",
 		"collections": "Grain",
 		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
