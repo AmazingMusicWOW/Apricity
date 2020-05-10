@@ -1,5 +1,37 @@
 [
 	{       
+                "name": "Minimal Plane",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalPlane.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Minimal Plane 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalPlane1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Minimal Plane 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalPlane2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Minimal Plane 3",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalPlane3.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
                 "name": "Artwork Gray",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BatmanGray.png",
