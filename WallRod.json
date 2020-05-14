@@ -1,5 +1,21 @@
 [
 	{       
+                "name": "New Mountains",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewMountains.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "New Mountains 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewMountains1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
                 "name": "Minimal Plane",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalPlane.png",
