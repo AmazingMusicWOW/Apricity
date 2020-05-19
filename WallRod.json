@@ -1,5 +1,21 @@
 [
 	{      
+                "name": "Landscape House",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LakeHouse2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Landscape House 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LakeHouse3.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
                 "name": "Lake House",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LakeHouse.png",
