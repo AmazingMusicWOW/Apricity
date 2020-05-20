@@ -1,5 +1,37 @@
 [
-	{      
+	{       
+                "name": "Fanart 11",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Spiderman.png",
+		"collections": "Hero",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Fanart 12",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Spiderman1.png",
+		"collections": "Hero",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Fanart 13",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SpidermanBlack.png",
+		"collections": "Hero",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Fanart 14",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SpidermanBlack1.png",
+		"collections": "Hero",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
                 "name": "Landscape House",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LakeHouse2.png",
