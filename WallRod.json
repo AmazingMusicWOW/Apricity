@@ -1,5 +1,37 @@
 [
 	{       
+                "name": "Desert Camping",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DesertCamping.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Desert Camping 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DesertCamping1.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Desert Camping 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DesertCamping2.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Desert Camping 3",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DesertCamping3.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
                 "name": "Beauty Sky Mountains",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySkyMountains.png",
@@ -1020,7 +1052,7 @@
 		"name": "Gradient Desert",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GradientDesert.png",
-		"collections": "Landscapes",
+		"collections": "Landscapes,Desert",
 		"downloadable": false,
 		"dimensions": "2000 x 4000 px"
         },
