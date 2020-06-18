@@ -1,5 +1,21 @@
 [
-	{       
+	{      
+		"name": "Secret Sword 5",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SecretSword5.png",
+		"collections": "Landscape,Sword",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Secret Sword 6",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SecretSword6.png",
+		"collections": "Landscape,Sword",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
                 "name": "Waves",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Waves.png",
