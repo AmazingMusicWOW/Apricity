@@ -1,5 +1,41 @@
 [
-	{      
+	{       
+		"name": "Bubble Planet",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BubblePlanet.png",
+		"collections": "Space,Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+	},
+	{
+          
+                "name": "Bubble Planet 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BubblePlanet1.png",
+		"collections": "Space,Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+          
+                "name": "Bubble Planet 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BubblePlanet2.png",
+		"collections": "Space,Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+	},
+	{
+          
+                "name": "Bubble Planet 3",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BubblePlanet3.png",
+		"collections": "Space,Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"	
+        },
+	{
+          
                 "name": "Simple Forest Day",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SimpleForestDay.png",
