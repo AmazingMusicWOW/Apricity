@@ -1,5 +1,37 @@
 [
 	{       
+                "name": "Sunset Deer",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SunsetDeer.png",
+		"collections": "Landscapes,Deer",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Sunset Deer 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SunsetDeer1.png",
+		"collections": "Landscapes,Deer",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Sunset Deer 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SunsetDeer2.png",
+		"collections": "Landscapes,Deer",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Sunset Deer Gray",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SunsetDeerGray.png",
+		"collections": "Landscapes,Deer,Gray",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
 		"name": "Bubble Planet",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BubblePlanet.png",
@@ -63,7 +95,7 @@
 		"name": "Secret Sword 5",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SecretSword5.png",
-		"collections": "Landscape,Sword",
+		"collections": "Landscapes,Sword",
 		"downloadable": false,
 		"dimensions": "2353 x 5099 px"
         },
@@ -71,7 +103,7 @@
                 "name": "Secret Sword 6",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SecretSword6.png",
-		"collections": "Landscape,Sword",
+		"collections": "Landscapes,Sword",
 		"downloadable": false,
 		"dimensions": "2353 x 5099 px"
         },
