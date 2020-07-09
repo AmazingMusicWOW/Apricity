@@ -1,5 +1,37 @@
 [
 	{       
+                "name": "Alone Boat",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneBoat.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Alone Boat 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneBoat1.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Alone Boat 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneBoat2.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Alone Boat 3",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneBoat3.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
                 "name": "Hot Air Balloons ",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/HotAirBalloons.png",
