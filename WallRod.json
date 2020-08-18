@@ -1,5 +1,21 @@
 [
-	{       
+	{      
+                "name": "Pixel Style Amoled 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyleAmoled1.png",
+		"collections": "Pixel,Amoled",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Pixel Style Amoled 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyleAmoled2.png",
+		"collections": "Pixel,Amoled",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{ 
                 "name": "Beauty Minimal House",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyMinimalHouse.png",
