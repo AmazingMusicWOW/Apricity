@@ -1,5 +1,13 @@
 [
 	{      
+                "name": "Thanos Fanart",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/ThanosFanart.png",
+		"collections": "Villains",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
                 "name": "Looking Mountains View",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LookingMountainsView.png",
