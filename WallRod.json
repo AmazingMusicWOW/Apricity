@@ -31,38 +31,7 @@
 		"collections": "Landscapes,Desert,Gray",
 		"downloadable": false,
 		"dimensions": "2353 x 5099 px"
-        },
-	{ 
-                "name": "Beauty Colors Desert",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyColorsDesert.jpg",
-		"collections": "Landscapes,Desert",
-		"downloadable": false,
-		"dimensions": "2353 x 5099 px"
-        },
-	{
-                "name": "Beauty Colors Desert 1",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyColorsDesert1.jpg",
-		"collections": "Landscapes,Desert",
-		"downloadable": false,
-		"dimensions": "2353 x 5099 px"
-        },
-	{
-                "name": "Beauty Colors Desert 2",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyColorsDesert2.jpg",
-		"collections": "Landscapes,Desert",
-		"downloadable": false,
-		"dimensions": "2353 x 5099 px"
-        },
-	{
-                "name": "Beauty Colors Desert 3",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyColorsDesert3.jpg",
-		"collections": "Landscapes,Desert",
-		"downloadable": false,
-		"dimensions": "2353 x 5099 px"
+        
         },
 	{
                 "name": "Little House In The Mountains",
@@ -2549,6 +2518,38 @@
 		"collections": "Grain",
 		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
+        },
+	{ 
+                "name": "Beauty Colors Desert",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyColorsDesert.jpg",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty Colors Desert 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyColorsDesert1.jpg",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty Colors Desert 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyColorsDesert2.jpg",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty Colors Desert 3",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyColorsDesert3.jpg",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
         
 	}
 ]
