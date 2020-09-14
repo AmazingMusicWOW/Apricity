@@ -1,6 +1,14 @@
 [
 	{      
                
+                "name": "Beauty Colors Desert 4",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyColorsDesert4.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
                 "name": "Beauty Colors Desert 5",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyColorsDesert5.png",
