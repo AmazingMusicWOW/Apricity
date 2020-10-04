@@ -1,6 +1,22 @@
 [
 	{      
-                
+               
+                "name": "Beach View Amoled 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeachViewAmoled1.png",
+		"collections": "Landscapes,Amoled",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beach View Amoled",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeachViewAmoled.png",
+		"collections": "Landscapes,Amoled",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{ 
                 "name": "Beach View",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeachView.png",
