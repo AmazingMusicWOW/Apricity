@@ -11,7 +11,7 @@
 	{
                 "name": "Abstract 5",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Abstract5.png",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Abstracst5.png",
 		"collections": "Abstract",
 		"downloadable": false,
 		"dimensions": "2353 x 5099 px"
@@ -268,7 +268,7 @@
                 "name": "Halloween House",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/HalloweenHouse.png",
-		"collections": "Landscapes,Halloween",
+		"collections": "Halloween",
 		"downloadable": false,
 		"dimensions": "2353 x 5099 px"
         },
@@ -276,7 +276,7 @@
                 "name": "Halloween House 1",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/HalloweenHouse1.png",
-		"collections": "Landscapes,Halloween",
+		"collections": "Halloween",
 		"downloadable": false,
 		"dimensions": "2353 x 5099 px"
         },
@@ -284,7 +284,7 @@
                 "name": "Halloween House 2",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/HalloweenHouse2.png",
-		"collections": "Landscapes,Halloween",
+		"collections": "Halloween",
 		"downloadable": false,
 		"dimensions": "2353 x 5099 px"
         },
