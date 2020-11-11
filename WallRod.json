@@ -1,6 +1,38 @@
 [
 	{      
-                
+               
+                "name": "Abstract Liquid",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AbstractLiquid.png",
+		"collections": "Abstract,Liquid",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Abstract Liquid 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AbstractLiquid1.png",
+		"collections": "Abstract,Liquid",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Abstract Liquid 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AbstractLiquid2.png",
+		"collections": "Abstract,Liquid",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Abstract Liquid 3",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AbstractLiquid3.png",
+		"collections": "Abstract,Liquid",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{ 
                 "name": "Beauty Sunset ",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySunset.png",
