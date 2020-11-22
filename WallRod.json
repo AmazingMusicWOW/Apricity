@@ -1,6 +1,30 @@
 [
 	{      
-               
+                
+                "name": "Gradient Sunset",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GradientSunset.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Gradient Sunset 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GradientSunset1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Gradient Sunset 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GradientSunset2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
                 "name": "Japan Mountain",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanMountain.png",
