@@ -1,6 +1,39 @@
 [
 	{      
                 
+                "name": "Minimal Colors Desert",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalDesertColors.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Minimal Colors Desert 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalDesertColors1.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Minimal Colors Desert 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalDesertColors2.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Minimal Colors Desert 3",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalDesertColors3.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        
+        },
+	{
                 "name": "House In The Sky",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/HouseInTheSky.png",
