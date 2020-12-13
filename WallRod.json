@@ -1,6 +1,38 @@
 [
 	{      
                 
+                "name": "Volcano",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Volcano.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Volcano 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Volcano1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Volcano 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Volcano2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Volcano 3",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Volcano3.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
                 "name": "Flamingo",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Flamingo.png",
