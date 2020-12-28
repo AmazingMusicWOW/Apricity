@@ -1,5 +1,37 @@
 [
-	{      
+	{       
+                "name": "Japan Beauty",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanBeauty.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Japan Beauty 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanBeauty1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Japan Beauty 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanBeauty2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Japan Beauty 3",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanBeauty3.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
                 "name": "Merry Christmas 2",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MerryChristmas2.png",
