@@ -5,6 +5,7 @@
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlackPantherRed.png",
 		"collections": "Hero,Amoled",
 		"downloadable": false,
+                "dimensions": 
         },
 	{
                 "name": "Black Panther Purple",
@@ -12,6 +13,7 @@
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlackPantherPurple.png",
 		"collections": "Hero,Amoled",
 		"downloadable": false,
+                "dimensions": 
         },
 	{
                 "name": "Black Panther Yellow",
@@ -19,6 +21,7 @@
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlackPantherYellow.png",
 		"collections": "Hero,Amoled",
 		"downloadable": false,
+                "dimensions": 
         },
 	{
                 "name": "Black Panther Red 1",
@@ -26,6 +29,7 @@
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlackPantherRed1.png",
 		"collections": "Hero,Amoled",
 		"downloadable": false,
+                "dimensions": 
         },
 	{
                 "name": "Black Panther Red 2",
@@ -33,13 +37,15 @@
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlackPantherRed2.png",
 		"collections": "Hero,Amoled",
 		"downloadable": false,
+                "dimensions": 
         },
 	{
                 "name": "Black Panther Purple 1",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlackPantherPurple1.png",
 		"collections": "Hero,Amoled",
-		"downloadable": false,
+		"downloadable": false, 
+                "dimensions": 
         },
 	{
                 "name": "Black Panther Purple 2",
@@ -47,6 +53,7 @@
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlackPantherPurple2.png",
 		"collections": "Hero,Amoled",
 		"downloadable": false,
+                "dimensions": 
         },
 	{
                 "name": "Black Panther Yellow 1",
@@ -54,6 +61,7 @@
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlackPantherYellow1.png",
 		"collections": "Hero,Amoled",
 		"downloadable": false,
+                "dimensions": 
         },
 	{
                 "name": "Black Panther Yellow 2",
@@ -61,6 +69,7 @@
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlackPantherYellow2.png",
 		"collections": "Hero,Amoled",
 		"downloadable": false,
+                "dimensions": 
         },
 	{
                 "name": "Japan Koi 8",
