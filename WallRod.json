@@ -1,10 +1,42 @@
 [
 	{       
+		"name": "Beauty Japan 5",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan5.png",
+		"collections": "Minimal",
+		"downloadable": false,
+                "dimensions": "1284 x 2778"
+	},
+	{
+                "name": "Beauty Japan 6",
+		"author": "Matias Eckerdt",
+		"downloadable": false,
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/BeautyJapan6.png",
+		"collections": "Minimal",
+                "dimensions": "1284 x 2778"
+	},
+	{
+                "name": "Beauty Japan 7",
+		"author": "Matias Eckerdt",
+		"downloadable": false,
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/BeautyJapan7.png",
+		"collections": "Minimal",
+                "dimensions": "1284 x 2778"
+	},
+	{
+                "name": "Beauty Japan 8",
+		"author": "Matias Eckerdt",
+		"downloadable": false,
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/BeautyJapan8.png",
+		"collections": "Minimal",
+                "dimensions": "1284 x 2778"	
+        },
+	{
                 "name": "Black Panther Red",
 		"author": "Matias Eckerdt",
+		"downloadable": false,
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlackPantherRed.png",
 		"collections": "Hero,Amoled",
-		"downloadable": false,
                 "dimensions": "1284 x 2778"
         },
 	{
