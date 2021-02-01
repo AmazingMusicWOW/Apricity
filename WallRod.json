@@ -1,5 +1,37 @@
 [
 	{       
+                "name": "Little Tree",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LittleTree.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+		"dimensions": "1284 x 2778 px"
+        },
+	{
+		"name": "Little Tree 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LittleTree1.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+                "dimensions": "1284 x 2778"
+        },
+	{
+		"name": "Little Tree 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LittleTree2.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+                "dimensions": "1284 x 2778"
+        },
+	{
+		"name": "Little Tree 3",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LittleTree3.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+                "dimensions": "1284 x 2778"
+        },
+	{
 		"name": "Beauty Japan 5",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan5.png",
