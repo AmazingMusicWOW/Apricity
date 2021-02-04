@@ -1,5 +1,21 @@
 [
 	{       
+                "name": "Space Color",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SpaceColor.png",
+		"collections": "Space",
+		"downloadable": false,
+		"dimensions": "1284 x 2778 px"
+        },
+	{
+		"name": "Space Color 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SpaceColor1.png",
+		"collections": "Space",
+		"downloadable": false,
+                "dimensions": "1284 x 2778"
+        },
+	{
                 "name": "Little Tree",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LittleTree.png",
