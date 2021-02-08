@@ -1,5 +1,53 @@
 [
 	{       
+                "name": "Minimal Mountains",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalMountains.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+		"dimensions": "1284 x 2778 px"
+        },
+	{
+		"name": "Minimal Mountains 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalMountains1.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+                "dimensions": "1284 x 2778"
+        },
+	{
+		"name": "Minimal Mountains 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalMountains2.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+                "dimensions": "1284 x 2778"
+        },
+	{
+		"name": "Minimal Mountains 3",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalMountains3.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+                "dimensions": "1284 x 2778"
+        },
+	{
+		"name": "Minimal Mountains 4",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalMountains4.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+                "dimensions": "1284 x 2778"
+        },
+	{
+		"name": "Minimal Mountains 5",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalMountains5.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+                "dimensions": "1284 x 2778"
+        },
+	{
                 "name": "Space Color",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SpaceColor.png",
