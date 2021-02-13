@@ -1,5 +1,21 @@
 [
-	{       
+	{      
+                "name": "Beautiful House",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautifulHouse.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1284 x 2778 px"
+        },
+	{
+		"name": "Beautiful House 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautifulHouse1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "1284 x 2778"
+        },
+	{ 
                 "name": "Minimal Mountains",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalMountains.png",
