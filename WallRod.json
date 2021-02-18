@@ -1,5 +1,37 @@
 [
 	{      
+                "name": "House In The Forest",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/HouseInTheForest.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1284 x 2778 px"
+        },
+	{
+		"name": "House In The Forest 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/HouseInTheForest1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "1284 x 2778"
+        },
+	{
+		"name": "House In The Forest 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/HouseInTheForest2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "1284 x 2778"
+        },
+	{
+		"name": "House In The Forest 3",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/HouseInTheForest3.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "1284 x 2778"
+        },
+	{
                 "name": "Beautiful House",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautifulHouse.png",
