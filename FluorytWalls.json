@@ -2,13 +2,11 @@
   {
     "name": "Fluid Colors",
     "url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FluidColors.png"
-    "collections": "Fluid",
     "downloadable": false,
   },
   {
     "name": "Fluid Colors 1",
     "url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FluidColors1.png"
-    "collections": "Fluid",
     "downloadable": false,
   }
 ]
