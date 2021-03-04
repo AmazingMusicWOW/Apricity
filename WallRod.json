@@ -1,5 +1,37 @@
 [
 	{       
+		"name": "New Mountain Blue",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewMountainBlue.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1284 x 2778 px"
+	},
+	{
+                "name": "New Mountain Purple",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewMountainPurple.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1284 x 2778 px"
+	},
+	{
+                "name": "New Mountain Autumn",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewMountainAutumn.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1284 x 2778 px"
+	},
+	{
+                "name": "New Mountain Amoled",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewMountainAmoled.png",
+		"collections": "Landscapes,Amoled",
+		"downloadable": false,
+		"dimensions": "1284 x 2778 px"	
+        },
+	{
                 "name": "Amazing Desert Night",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmazingDesertNight.png",
