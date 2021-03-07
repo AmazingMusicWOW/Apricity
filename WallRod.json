@@ -1,5 +1,29 @@
 [
 	{       
+		"name": "Texture Mountain",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/TextureMountain.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1284 x 2778 px"
+	},
+	{
+		"name": "Texture Mountain 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/TextureMountain1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1284 x 2778 px"
+	},
+	{
+		"name": "Texture Mountain 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/TextureMountain2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1284 x 2778 px"	
+	},
+	{
 		"name": "New Mountain Blue",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewMountainBlue.png",
