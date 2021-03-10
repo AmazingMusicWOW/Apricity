@@ -1,5 +1,38 @@
 [
 	{       
+	       
+		"name": "Japan Minimal 15",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanMinimal15.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+		"dimensions": "1284 x 2778 px"
+	},
+	{
+		"name": "Japan Minimal 16",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanMinimal16.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+		"dimensions": "1284 x 2778 px"
+	},
+	{
+		"name": "Japan Minimal 17",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanMinimal17.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+		"dimensions": "1284 x 2778 px"
+	},
+	{
+		"name": "Japan Minimal 18",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanMinimal18.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+		"dimensions": "1284 x 2778 px"	
+	},
+	{
 		"name": "Texture Mountain",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/TextureMountain.png",
