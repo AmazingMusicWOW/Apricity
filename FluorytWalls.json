@@ -338,7 +338,7 @@
      {
 	"name": "Liquid 7",
 	"author": "Matias Eckerdt",
-	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid7.png",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LLiquid7.png",
 	"collections": "Liquid",
 	"downloadable": false,
         "dimensions": "1284 x 2778"
@@ -346,7 +346,7 @@
      {
 	"name": "Liquid 8",
 	"author": "Matias Eckerdt",
-	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid8.png",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LLiquid8.png",
 	"collections": "Liquid",
 	"downloadable": false,
         "dimensions": "1284 x 2778"
@@ -434,7 +434,7 @@
      {
 	"name": "Minimal Liquid",
 	"author": "Matias Eckerdt",
-	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalLiquid.png",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalLiquid1.png",
 	"collections": "Liquid",
 	"downloadable": false,
         "dimensions": "1284 x 2778"
@@ -442,7 +442,7 @@
      {
 	"name": "Minimal Liquid 1",
 	"author": "Matias Eckerdt",
-	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalLiquid1.png",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalLiquid2.png",
 	"collections": "Liquid",
 	"downloadable": false,
         "dimensions": "1284 x 2778"
@@ -450,7 +450,7 @@
      {
 	"name": "Minimal Liquid 2",
 	"author": "Matias Eckerdt",
-	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalLiquid2.png",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalLiquid3.png",
 	"collections": "Liquid",
 	"downloadable": false,
         "dimensions": "1284 x 2778"
@@ -458,7 +458,7 @@
      {
 	"name": "Minimal Liquid 3",
 	"author": "Matias Eckerdt",
-	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalLiquid3.png",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalLiquid4.png",
 	"collections": "Liquid",
 	"downloadable": false,
         "dimensions": "1284 x 2778"
@@ -466,21 +466,13 @@
      {
 	"name": "Minimal Liquid 4",
 	"author": "Matias Eckerdt",
-	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalLiquid4.png",
-	"collections": "Liquid",
-	"downloadable": false,
-        "dimensions": "1284 x 2778"
-     },
-     {
-	"name": "Minimal Liquid 5",
-	"author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalLiquid5.png",
 	"collections": "Liquid",
 	"downloadable": false,
         "dimensions": "1284 x 2778"
      },
      {
-	"name": "Minimal Liquid 6",
+	"name": "Minimal Liquid 5",
 	"author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalLiquid6.png",
 	"collections": "Liquid",
