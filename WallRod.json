@@ -1,6 +1,38 @@
 [
 	{       
 	       
+		"name": "Alone Japan Tree",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneJapanTree.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+		"dimensions": "1284 x 2778 px"
+	},
+	{
+		"name": "Alone Japan Tree 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneJapanTree1.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+		"dimensions": "1284 x 2778 px"
+	},
+	{
+		"name": "Alone Japan Tree 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneJapanTree2.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+		"dimensions": "1284 x 2778 px"
+	},
+	{
+		"name": "Alone Japan Tree 3",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneJapanTree3.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+		"dimensions": "1284 x 2778 px"	
+	},
+	{
 		"name": "Japan Minimal 15",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanMinimal15.png",
