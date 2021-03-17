@@ -1,6 +1,37 @@
 [
 	{       
-	       
+	        "name": "Minimal Koi",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalKoi.png",
+		"collections": "Fishes,Minimal",
+		"downloadable": false,
+		"dimensions": "1284 x 2778 px"
+	},
+	{
+		"name": "Minimal Koi 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalKoi1.png",
+		"collections": "Fishes,Minimal",
+		"downloadable": false,
+		"dimensions": "1284 x 2778 px"
+	},
+	{
+		"name": "Minimal Koi 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalKoi2.png",
+		"collections": "Fishes,Minimal",
+		"downloadable": false,
+		"dimensions": "1284 x 2778 px"
+	},
+	{
+		"name": "Minimal Koi 3",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalKoi3.png",
+		"collections": "Fishes,Minimal",
+		"downloadable": false,
+		"dimensions": "1284 x 2778 px"	
+	},
+	{
 		"name": "Alone Japan Tree",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneJapanTree.png",
