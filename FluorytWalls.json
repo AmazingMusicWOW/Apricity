@@ -1,5 +1,45 @@
 [
-      {      
+      { 
+        "name": "Minimal Liquid 7",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalLiquid7.png",
+	"collections": "Liquid",
+	"downloadable": false,
+	"dimensions": "1284 x 2778 px"
+     },
+     {	      
+        "name": "Minimal Liquid 8",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalLiqud8.png",
+	"collections": "Liquid",
+	"downloadable": false,
+	"dimensions": "1284 x 2778 px"
+     },
+     {	      
+        "name": "Minimal Liquid 9",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalLiqud9.png",
+	"collections": "Liquid",
+	"downloadable": false,
+	"dimensions": "1284 x 2778 px"
+     },
+     {	      
+        "name": "Liquid 17",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid17.png",
+	"collections": "Liquid",
+	"downloadable": false,
+	"dimensions": "1284 x 2778 px"
+     },
+     {	      
+        "name": "Liquid 18",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liqud18.png",
+	"collections": "Liquid",
+	"downloadable": false,
+	"dimensions": "1284 x 2778 px"	     
+     },
+     {	      
         "name": "Fluid Colors",
         "author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FluidColors.png",
