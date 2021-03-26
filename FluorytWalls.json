@@ -1,5 +1,53 @@
 [
       { 
+	"name": "Fluid Colors 10",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FluidColors10.png",
+	"collections": "Fluid",
+	"downloadable": false,
+	"dimensions": "1284 x 2778 px"
+     },
+     {	            
+        "name": "Fluid Colors 11",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FluidColors11.png",
+	"collections": "Fluid",
+	"downloadable": false,
+	"dimensions": "1284 x 2778 px"
+     },
+     {	            
+        "name": "Gradient Waves 9",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GradientWaves9.png",
+	"collections": "Waves",
+	"downloadable": false,
+	"dimensions": "1284 x 2778 px"
+     },
+     {	            
+        "name": "Gradient Waves 10",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GradientWaves10.png",
+	"collections": "Waves",
+	"downloadable": false,
+	"dimensions": "1284 x 2778 px"
+     },
+     {	            
+        "name": "Smooth Gradient 8",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SmoothGradient8.png",
+	"collections": "Smooth Gradient",
+	"downloadable": false,
+	"dimensions": "1284 x 2778 px"
+     },
+     {	            
+        "name": "Smooth Gradient 9",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SmoothGradient9.png",
+	"collections": "Smooth Gradient",
+	"downloadable": false,
+	"dimensions": "1284 x 2778 px"	     
+     },
+     {	            
         "name": "Minimal Liquid 7",
         "author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalLiquid7.png",
