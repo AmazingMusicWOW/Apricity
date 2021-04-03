@@ -1,5 +1,13 @@
 [
       { 
+	"name": "Fluid Colors 12",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FluidColors12.png",
+	"collections": "Fluid",
+	"downloadable": false,
+	"dimensions": "1284 x 2778 px"
+     },
+     {	                              
 	"name": "Liquid 25",
         "author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid25.png",
