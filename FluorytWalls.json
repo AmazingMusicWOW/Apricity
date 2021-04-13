@@ -379,7 +379,7 @@
         "name": "Liquid 20",
         "author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid20.png",
-	"collections": "Liquid",
+	"collections": "Minimal",
 	"downloadable": false,
 	"dimensions": "1284 x 2778 px"	     
      },
@@ -803,7 +803,7 @@
 	"name": "Liquid 17",
 	"author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid17.png",
-	"collections": "Liquid",
+	"collections": "Minimal",
 	"downloadable": false,
         "dimensions": "1284 x 2778"
      },
