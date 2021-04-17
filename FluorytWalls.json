@@ -1,5 +1,157 @@
 [
       { 
+	"name": "Fluid Colors 13",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FluidColors13.png",
+	"collections": "Amoled",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                  
+	"name": "Fluid Colors 14",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FluidColors14.png",
+	"collections": "Amoled",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                  
+	"name": "Fluid Colors 15",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FluidColors15.png",
+	"collections": "Amoled",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                  
+	"name": "Liquid 42",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid42.png",
+	"collections": "Liquid",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                  
+	"name": "Liquid 43",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid43.png",
+	"collections": "Liquid",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                  
+	"name": "Liquid 44",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid44.png",
+	"collections": "Liquid",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                  
+	"name": "Liquid 45",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid45.png",
+	"collections": "Liquid",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                  
+	"name": "Liquid 46",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid46.png",
+	"collections": "Liquid,Amoled",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                  
+	"name": "Liquid 47",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid47.png",
+	"collections": "Liquid,Amoled",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                  
+	"name": "Smooth Gradient 13",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SmoothGradient12.jpg",
+	"collections": "Smooth Gradient",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                  
+	"name": "Smooth Gradient 14",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SmoothGradient13.jpg",
+	"collections": "Smooth Gradient",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                  
+	"name": "Smooth Gradient 15",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SmoothGradient14.jpg",
+	"collections": "Smooth Gradient",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                  
+	"name": "Smooth Gradient 16",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SmoothGradient15.jpg",
+	"collections": "Smooth Gradient",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"	     
+     },
+     {	                                  
+	"name": "Minimal Shapes",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalShapes.png",
+	"collections": "Shapes",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                  
+	"name": "Minimal Shapes 1",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalShapes1.png",
+	"collections": "Shapes",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                  
+	"name": "Minimal Pattern",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MnimalPattern.png",
+	"collections": "Patterns",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                  
+	"name": "Minimal Pattern 1",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MnimalPattern1.png",
+	"collections": "Patterns",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                  
+	"name": "Minimal Pattern 2",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MnimalPattern2.png",
+	"collections": "Patterns",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                  
+	"name": "Minimal Pattern  3",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MnimalPattern3.png",
+	"collections": "Patterns",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"	     
+     },
+     {	                                  
 	"name": "Minimal Liquid 14",
         "author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid34.png",
@@ -139,7 +291,7 @@
 	"name": "Fluid Colors 12",
         "author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FluidColors12.png",
-	"collections": "Fluid",
+	"collections": "Amoled",
 	"downloadable": false,
 	"dimensions": "1284 x 2778 px"
      },
@@ -387,7 +539,7 @@
         "name": "Fluid Colors",
         "author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FluidColors.png",
-	"collections": "Fluid",
+	"collections": "Amoled",
 	"downloadable": false,
 	"dimensions": "1284 x 2778 px"
      },
@@ -395,7 +547,7 @@
 	"name": "Fluid Colors 1",
 	"author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FluidColors1.png",
-	"collections": "Fluid",
+	"collections": "Amoled",
 	"downloadable": false,
         "dimensions": "1284 x 2778"
      },
@@ -403,7 +555,7 @@
 	"name": "Fluid Colors 2",
 	"author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FluidColors2.png",
-	"collections": "Fluid",
+	"collections": "Amoled",
 	"downloadable": false,
         "dimensions": "1284 x 2778"
      },
@@ -411,7 +563,7 @@
 	"name": "Fluid Colors 3",
 	"author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FluidColors3.png",
-	"collections": "Fluid",
+	"collections": "Amoled",
 	"downloadable": false,
         "dimensions": "1284 x 2778"
      },
@@ -419,7 +571,7 @@
 	"name": "Fluid Colors 4",
 	"author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FluidColors4.png",
-	"collections": "Fluid",
+	"collections": "Amoled",
 	"downloadable": false,
         "dimensions": "1284 x 2778"
      },
@@ -427,7 +579,7 @@
 	"name": "Fluid Colors 5",
 	"author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FluidColors5.png",
-	"collections": "Fluid",
+	"collections": "Amoled",
 	"downloadable": false,
         "dimensions": "1284 x 2778"
      },
@@ -435,7 +587,7 @@
 	"name": "Fluid Colors 6",
 	"author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FluidColors6.png",
-	"collections": "Fluid",
+	"collections": "Amoled",
 	"downloadable": false,
         "dimensions": "1284 x 2778"
      },
@@ -443,7 +595,7 @@
 	"name": "Fluid Colors 7",
 	"author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FluidColors1.png",
-	"collections": "Fluid",
+	"collections": "Amoled",
 	"downloadable": false,
         "dimensions": "1284 x 2778"
      },
@@ -451,7 +603,7 @@
 	"name": "Fluid Colors 8",
 	"author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FluidColors8.png",
-	"collections": "Fluid",
+	"collections": "Amoled",
 	"downloadable": false,
         "dimensions": "1284 x 2778"	     
      },
@@ -459,7 +611,7 @@
 	"name": "Fluid Colors 9",
 	"author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FluidColors9.png",
-	"collections": "Fluid",
+	"collections": "Amoled",
 	"downloadable": false,
         "dimensions": "1284 x 2778"
      },
