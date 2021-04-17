@@ -451,7 +451,7 @@
 	"name": "Fluid Colors 10",
         "author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FluidColors10.png",
-	"collections": "Fluid",
+	"collections": "Amoled",
 	"downloadable": false,
 	"dimensions": "1284 x 2778 px"
      },
@@ -459,7 +459,7 @@
         "name": "Fluid Colors 11",
         "author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FluidColors11.png",
-	"collections": "Fluid",
+	"collections": "Amoled",
 	"downloadable": false,
 	"dimensions": "1284 x 2778 px"
      },
