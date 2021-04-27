@@ -1,5 +1,77 @@
 [
       { 
+	"name": "Liquid 56",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid56.png",
+	"collections": "Liquid",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                    
+	"name": "Liquid 57",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid57.png",
+	"collections": "Liquid,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                    
+	"name": "Liquid 58",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid58.png",
+	"collections": "Liquid,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                    
+	"name": "Liquid 59",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid59.png",
+	"collections": "Liquid,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                    
+	"name": "Liquid 60",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid60.png",
+	"collections": "Liquid,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                    
+	"name": "Liquid 61",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid61.png",
+	"collections": "Liquid,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                    
+	"name": "Liquid 62",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid62.png",
+	"collections": "Liquid,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                    
+	"name": "Gradient Shapes 6",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GradientShapes6.png",
+	"collections": "Shapes",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                    
+	"name": "Gradient Shapes 7",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GradientShapes7.png",
+	"collections": "Shapes",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"	     
+     },
+     {	                                    
 	"name": "Liquid 48",
         "author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid48.png",
