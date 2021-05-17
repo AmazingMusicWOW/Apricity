@@ -1,5 +1,21 @@
 [
 	{       
+		"name": "Colors Outer Space",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/ColorsOuterSpace.png",
+		"collections": "Space",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Colors Outer Space 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/ColorsOuterSpace1.png",
+		"collections": "Space",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"	
+	},
+	{
 		"name": "Japanese Tree",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapaneseTree.png",
