@@ -42,7 +42,7 @@
      {	                                    
 	"name": "Amoled Colors",
         "author": "Matias Eckerdt",
-	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmoledColors.png",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/ColorsAmoled.png",
 	"collections": "Liquid,Minimal,Amoled",
 	"downloadable": false,
 	"dimensions": "1440 x 3200 px"
@@ -50,7 +50,7 @@
      {	                                    
 	"name": "Amoled Colors 1",
         "author": "Matias Eckerdt",
-	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmoledColors1.png",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/ColorsAmoled1.png",
 	"collections": "Liquid,Minimal,Amoled",
 	"downloadable": false,
 	"dimensions": "1440 x 3200 px"
@@ -58,7 +58,7 @@
      {	                                    
 	"name": "Amoled Colors 2",
         "author": "Matias Eckerdt",
-	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmoledColors2.png",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/ColorsAmoled2.png",
 	"collections": "Liquid,Minimal,Amoled",
 	"downloadable": false,
 	"dimensions": "1440 x 3200 px"	     
