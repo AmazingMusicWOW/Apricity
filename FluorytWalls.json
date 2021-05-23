@@ -1,5 +1,69 @@
 [
       { 
+	"name": "Gray Liquid",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GrayLiquid.png",
+	"collections": "Liquid,Minimal,Gray",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                    
+	"name": "Gray Liquid 1",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GrayLiquid1.png",
+	"collections": "Liquid,Minimal,Gray",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                    
+	"name": "Gray Liquid 2",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GrayLiquid2.png",
+	"collections": "Liquid,Minimal,Gray",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                    
+	"name": "Gray Liquid 3",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GrayLiquid3.png",
+	"collections": "Liquid,Minimal,Gray",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                    
+	"name": "Gray Liquid 4",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GrayLiquid4.png",
+	"collections": "Liquid,Minimal,Gray",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                    
+	"name": "Amoled Colors",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmoledColors.png",
+	"collections": "Liquid,Minimal,Amoled",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                    
+	"name": "Amoled Colors 1",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmoledColors1.png",
+	"collections": "Liquid,Minimal,Amoled",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                    
+	"name": "Amoled Colors 2",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmoledColors2.png",
+	"collections": "Liquid,Minimal,Amoled",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"	     
+     },
+     {	                                    
 	"name": "Liquid 78",
         "author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid78.png",
