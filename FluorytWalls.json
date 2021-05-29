@@ -1,5 +1,21 @@
 [
       { 
+	"name": "Material Wall",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MaterialWall.png",
+	"collections": "Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                  
+	"name": "Material Wall 1",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MaterialWall1.png",
+	"collections": "Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"	      
+     },
+     {	                                  
 	"name": "Liquid 82",
         "author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid82.png",
