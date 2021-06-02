@@ -1,5 +1,61 @@
 [
       { 
+	"name": "Liquid 91",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid91.png",
+	"collections": "Liquid,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                
+	"name": "Liquid 92",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid92.png",
+	"collections": "Liquid,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                
+	"name": "Liquid 93",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid93.png",
+	"collections": "Liquid,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                
+	"name": "Liquid 94",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid94.png",
+	"collections": "Liquid,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                
+	"name": "Liquid 95",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid95.png",
+	"collections": "Liquid,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                
+	"name": "Liquid 96",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid96.png",
+	"collections": "Liquid,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                
+	"name": "Liquid 97",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid97.png",
+	"collections": "Liquid,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"	     
+     },
+     {	                                
 	"name": "Material Wall",
         "author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MaterialWall.png",
