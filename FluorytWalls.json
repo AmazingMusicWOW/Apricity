@@ -1,5 +1,181 @@
 [
       { 
+	"name": "Material Wall 2",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MaterialWall2.png",
+	"collections": "Waves,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                   
+	"name": "Material Wall 3",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MaterialWall3.png",
+	"collections": "Waves,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                   
+	"name": "Material Wall 4",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MaterialWall4.png",
+	"collections": "Waves,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                   
+	"name": "Material Wall 5",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MaterialWall5.png",
+	"collections": "Waves,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                   
+	"name": "Material Wall 6",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MaterialWall6.png",
+	"collections": "Waves,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                   
+	"name": "Material Wall 7",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MaterialWall7.png",
+	"collections": "Waves,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                   
+	"name": "Material Wall 8",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MaterialWall8.png",
+	"collections": "Waves,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                   
+	"name": "Material Wall 9",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MaterialWall9.png",
+	"collections": "Waves,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                   
+	"name": "Material Wall 10",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MaterialWall10.png",
+	"collections": "Waves,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                   
+	"name": "Material Wall 11",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MaterialWall11.png",
+	"collections": "Waves,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"	
+     },
+     {	                                   
+	"name": "Material Wall 12",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MaterialWall12.png",
+	"collections": "Waves,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                   
+	"name": "Material Wall 13",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MaterialWall13.png",
+	"collections": "Waves,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                   
+	"name": "Material Wall 14",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MaterialWall4.png",
+	"collections": "Waves,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                   
+	"name": "Material Wall 15",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MaterialWall5.png",
+	"collections": "Waves,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                   
+	"name": "Material Wall 16",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MaterialWall6.png",
+	"collections": "Waves,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                   
+	"name": "Material Wall 17",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MaterialWall7.png",
+	"collections": "Waves,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                 
+	"name": "Liquid 98",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid98.png",
+	"collections": "Liquid,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                 
+	"name": "Liquid 99",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid99.png",
+	"collections": "Liquid,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                 
+	"name": "Liquid 100",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid100.png",
+	"collections": "Liquid,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                 
+	"name": "Liquid 101",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid101.png",
+	"collections": "Liquid,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                 
+	"name": "Liquid 102",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid102.png",
+	"collections": "Liquid,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                 
+	"name": "Liquid 103",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid103.png",
+	"collections": "Liquid,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"	     
+     },
+     {	                                   
 	"name": "Minimal Waves 9",
         "author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalWave9.png",
