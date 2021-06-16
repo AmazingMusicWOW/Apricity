@@ -1,5 +1,93 @@
 [
       { 
+	"name": "Smooth Gradient 33",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SmoothGradient33.jpg",
+	"collections": "Smooth Gradient",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                
+	"name": "Smooth Gradient 34",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SmoothGradient34.jpg",
+	"collections": "Smooth Gradient",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                
+	"name": "Smooth Gradient 35",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SmoothGradient35.jpg",
+	"collections": "Smooth Gradient",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                
+	"name": "Smooth Gradient 36",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SmoothGradient36.jpg",
+	"collections": "Smooth Gradient",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"	     
+     },
+     {	                                     
+	"name": "Liquid 104",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid104.jpg",
+	"collections": "Liquid",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                  
+	"name": "Liquid 105",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid105.jpg",
+	"collections": "Liquid",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                  
+	"name": "Liquid 106",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid106.jpg",
+	"collections": "Liquid",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                  
+	"name": "Liquid 107",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid107.jpg",
+	"collections": "Liquid",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                  
+	"name": "Liquid 108",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid108.png",
+	"collections": "Liquid",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                  
+	"name": "Gray Liquid 5",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GrayLiquid5.png",
+	"collections": "Liquid,Gray",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                  
+	"name": "Gray Liquid 6",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GrayLiquid6.png",
+	"collections": "Liquid,Gray",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"	     
+     },
+     {	                                  
 	"name": "Material Wall 2",
         "author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MaterialWall2.png",
