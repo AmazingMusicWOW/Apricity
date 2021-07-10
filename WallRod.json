@@ -1,5 +1,29 @@
 [
 	{       
+                "name": "Camel Desert",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/CamelDesert.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+        },
+	{
+		"name": "Camel Desert 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/CamelDesert1.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+        },
+	{
+		"name": "Camel Desert 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/CamelDesert2.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
 		"name": "Deer Desert",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DeerDesert.png",
