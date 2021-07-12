@@ -61,12 +61,20 @@
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewWaves7.png",
 	"collections": "Waves",
 	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                             
+	"name": "Liquid 145",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid145.png",
+	"collections": "Liquid,Minimal",
+	"downloadable": false,
 	"dimensions": "1440 x 3200 px"	     
      },
      {	                             
 	"name": "Liquid 146",
         "author": "Matias Eckerdt",
-	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid146.png",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid146.jpg",
 	"collections": "Liquid,Minimal",
 	"downloadable": false,
 	"dimensions": "1440 x 3200 px"
