@@ -1,5 +1,133 @@
 [
       { 
+	"name": "New Waves",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewWaves.png",
+	"collections": "Waves",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                            
+	"name": "New Waves 1",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewWaves1.png",
+	"collections": "Waves",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                            
+	"name": "New Waves 2",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewWaves2.png",
+	"collections": "Waves",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                            
+	"name": "New Waves 3",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewWaves3.png",
+	"collections": "Waves",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                            
+	"name": "New Waves 4",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewWaves4.png",
+	"collections": "Waves",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                            
+	"name": "New Waves 5",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewWaves5.png",
+	"collections": "Waves",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                            
+	"name": "New Waves 6",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewWaves6.png",
+	"collections": "Waves",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                            
+	"name": "New Waves 7",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewWaves7.png",
+	"collections": "Waves",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"	     
+     },
+     {	                             
+	"name": "Liquid 146",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid146.png",
+	"collections": "Liquid,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                             
+	"name": "Liquid 147",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid147.png",
+	"collections": "Liquid,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                             
+	"name": "Liquid 148",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid148.png",
+	"collections": "Liquid,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                             
+	"name": "Liquid 149",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid149.png",
+	"collections": "Liquid,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                             
+	"name": "Liquid 150",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid150.png",
+	"collections": "Liquid,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                 
+	"name": "Smooth Gradient 40",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SmoothGradient40.png",
+	"collections": "Smooth Gradient",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                 
+	"name": "Smooth Gradient 41",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SmoothGradient41.png",
+	"collections": "Smooth Gradient",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                 
+	"name": "Smooth Gradient 42",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SmoothGradient42.png",
+	"collections": "Smooth Gradient",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"	     
+     },
+     {	                             
 	"name": "Liquid 134",
         "author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid134.png",
