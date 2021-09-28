@@ -1,5 +1,149 @@
 [
       { 
+	"name": "Minimal Waves 36",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalWaves36.png",
+	"collections": "Waves,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                 
+	"name": "Minimal Waves 37",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalWaves37.png",
+	"collections": "Waves,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                 
+	"name": "Minimal Waves 38",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalWaves38.png",
+	"collections": "Waves,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                 
+	"name": "Minimal Waves 39",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalWaves39.png",
+	"collections": "Waves,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                 
+	"name": "Minimal Waves 40",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalWaves40.png",
+	"collections": "Waves,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                 
+	"name": "Minimal Waves 41",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalWaves41.png",
+	"collections": "Waves,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"	     
+     },
+     {	                                 
+	"name": "Liquid 239",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid239.png",
+	"collections": "Liquid,Minimal,Amoled",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                     
+	"name": "Liquid 240",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid240.png",
+	"collections": "Liquid,Minimal,Amoled",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"	     
+     },
+     {	                                     
+	"name": "Liquid 241",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid241.png",
+	"collections": "Liquid,Minimal,Amoled",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                     
+	"name": "Liquid 242",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid242.png",
+	"collections": "Liquid,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                     
+	"name": "Liquid 243",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid243.png",
+	"collections": "Liquid",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                     
+	"name": "Liquid 244",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid244.png",
+	"collections": "Liquid,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                     
+	"name": "Liquid 245",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid245.png",
+	"collections": "Liquid,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                     
+	"name": "Liquid 246",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid246.png",
+	"collections": "Liquid,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                     
+	"name": "Liquid 247",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid247.png",
+	"collections": "Liquid,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                     
+	"name": "Liquid 248",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid248.png",
+	"collections": "Liquid,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                     
+	"name": "Liquid 249",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid249.png",
+	"collections": "Liquid,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {	                                     
+	"name": "Liquid 250",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid250.png",
+	"collections": "Liquid,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"	     
+     },
+     {	                                     
 	"name": "Liquid 235",
         "author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid235.png",
