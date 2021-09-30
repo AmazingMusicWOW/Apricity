@@ -1,5 +1,53 @@
 [
 	{       
+		"name": "Night Tree Landscape",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NightTreeLandscape.png",
+		"collections": "Landscapes,Amoled",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Night Tree Landscape 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NightTreeLandscape1.png",
+		"collections": "Landscapes,Amoled",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Night Tree Landscape Minimal",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NightTreeLandscapeMinimal.png",
+		"collections": "Landscapes,Amoled,Minimal",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Night Tree Landscape Minimal 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NightTreeLandscapeMinimal1.png",
+		"collections": "Landscapes,Amoled,Minimal",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Night Tree Landscape Minimal 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NightTreeLandscapeMinimalColors.png",
+		"collections": "Landscapes,Amoled,Minimal",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Night Tree Landscape Minimal 3",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NightTreeLandscapeMinimalColors1.png",
+		"collections": "Landscapes,Amoled,Minimal",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"	
+	},
+	{
 		"name": "Minimal Coffee Time",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/CoffeeTimeMinimal.png",
