@@ -112,14 +112,6 @@
 	"dimensions": "1440 x 3200 px"
      },
      {	                                  
-	"name": "Gray Liquid 14",
-        "author": "Matias Eckerdt",
-	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GrayLiquid14.png",
-	"collections": "Gray,Minimal",
-	"downloadable": false,
-	"dimensions": "1440 x 3200 px"
-     },
-     {	                                  
 	"name": "Gray Liquid 15",
         "author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GrayLiquid15.png",
