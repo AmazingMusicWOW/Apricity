@@ -1,5 +1,37 @@
 [
 	{       
+		"name": "Beautiful Flowers",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautifulFlowers.png",
+		"collections": "Minimal",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Beautiful Flowers 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautifulFlowers1.png",
+		"collections": "Minimal",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Beautiful Flowers 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautifulFlowers2.png",
+		"collections": "Minimal",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Beautiful Flowers 3",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautifulFlowers3.png",
+		"collections": "Minimal",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"	
+	},
+	{
 		"name": "Big Mountain",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BigMountain.png",
