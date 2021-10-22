@@ -8,14 +8,6 @@
 		"dimensions": "1440 x 3200 px"
 	},
 	{
-		"name": "New House 1",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/HouseNew23.png",
-		"collections": "Landscapes",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"	
-	},
-	{
 		"name": "New House 2",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewHouse2.png",
