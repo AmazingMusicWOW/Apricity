@@ -112,14 +112,6 @@
 	"dimensions": "1440 x 3200 px"
      },
      {	                                    
-	"name": "Liquid 302",
-        "author": "Matias Eckerdt",
-	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid302.png",
-	"collections": "Liquid",
-	"downloadable": false,
-	"dimensions": "1440 x 3200 px"
-     },
-     {	                                    
 	"name": "Liquid 303",
         "author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid303.png",
