@@ -11,7 +11,7 @@
 	"name": "Liquid 315",
         "author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid315.png",
-	"collections": "Liquid,Minimal",
+	"collections": "Liquid,Minimal,Low Light",
 	"downloadable": false,
 	"dimensions": "1440 x 3200 px"
      },
@@ -19,7 +19,7 @@
 	"name": "Liquid 316",
         "author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid316.png",
-	"collections": "Liquid,Minimal",
+	"collections": "Liquid,Minimal,Low Light",
 	"downloadable": false,
 	"dimensions": "1440 x 3200 px"
      },
@@ -59,7 +59,7 @@
 	"name": "Liquid 321",
         "author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid321.png",
-	"collections": "Liquid,Amoled,Low Light",
+	"collections": "Liquid,Amoled",
 	"downloadable": false,
 	"dimensions": "1440 x 3200 px"
      },
@@ -75,7 +75,7 @@
 	"name": "Liquid 323",
         "author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid323.png",
-	"collections": "Liquid,Amoled",
+	"collections": "Liquid,Low Light",
 	"downloadable": false,
 	"dimensions": "1440 x 3200 px"	     
      },
