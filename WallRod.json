@@ -1,11 +1,51 @@
 [
 	{       
+		"name": "New Deer Mountain",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewDeerMountain.png",
+		"collections": "Minimal,Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "New Deer Mountain 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewDeerMountain1.png",
+		"collections": "Minimal,Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "New Deer Mountain 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewDeerMountain2.png",
+		"collections": "Minimal,Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"	
+	},
+	{
 		"name": "New House 3",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewHouse3.png",
 		"collections": "Minimal,Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "New Deer Mountain Night",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewDeerMountainNight.png",
+		"collections": "Minimal,Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "New Deer Mountain Amoled",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewDeerMountainAmoled.png",
+		"collections": "Minimal,Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"	
 	},
 	{
 		"name": "New House 4",
