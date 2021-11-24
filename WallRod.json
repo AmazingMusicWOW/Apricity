@@ -24,14 +24,6 @@
 		"dimensions": "1440 x 3200 px"	
 	},
 	{
-		"name": "New House 3",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewHouse3.png",
-		"collections": "Minimal,Landscapes",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-	},
-	{
 		"name": "New Deer Mountain Night",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewDeerMountainNight.png",
@@ -44,6 +36,14 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewDeerMountainAmoled.png",
 		"collections": "Minimal,Landscapes,Amoled",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "New House 3",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewHouse3.png",
+		"collections": "Minimal,Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"	
 	},
