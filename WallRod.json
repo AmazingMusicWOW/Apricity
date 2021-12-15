@@ -235,7 +235,7 @@
 		"name": "Beauty Japan 9",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan9.png",
-		"collections": "Minimal",
+		"collections": "Minimal,Japan",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
 	},
@@ -243,7 +243,7 @@
 		"name": "Beauty Japan 10",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan10.png",
-		"collections": "Minimal",
+		"collections": "Minimal,Japan",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
 	},
@@ -251,7 +251,7 @@
 		"name": "Beauty Japan 11",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan11.png",
-		"collections": "Minimal",
+		"collections": "Minimal,Japan",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"	
 	},
@@ -1179,7 +1179,7 @@
 		"name": "Japanese Tree",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapaneseTree.png",
-		"collections": "Landscapes,Minimal",
+		"collections": "Landscapes,Minimal,Japan",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
 	},
@@ -1187,7 +1187,7 @@
 		"name": "Japanese Tree 1",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapaneseTree1.png",
-		"collections": "Landscapes,Minimal",
+		"collections": "Landscapes,Minimal,Japan",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
 	},
@@ -1195,7 +1195,7 @@
 		"name": "Japanese Tree 2",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapaneseTree2.png",
-		"collections": "Landscapes,Minimal",
+		"collections": "Landscapes,Minimal,Japan",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
 	},
@@ -1203,7 +1203,7 @@
 		"name": "Japanese Tree 3",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapaneseTree3.png",
-		"collections": "Landscapes,Minimal",
+		"collections": "Landscapes,Minimal,Japan",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"	
 	},
@@ -1483,7 +1483,7 @@
 	        "name": "Minimal Koi",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalKoi.png",
-		"collections": "Fishes,Minimal",
+		"collections": "Fishes,Minimal,Japan",
 		"downloadable": false,
 		"dimensions": "1284 x 2778 px"
 	},
@@ -1491,7 +1491,7 @@
 		"name": "Minimal Koi 1",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalKoi1.png",
-		"collections": "Fishes,Minimal",
+		"collections": "Fishes,Minimal,Japan",
 		"downloadable": false,
 		"dimensions": "1284 x 2778 px"
 	},
@@ -1499,7 +1499,7 @@
 		"name": "Minimal Koi 2",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalKoi2.png",
-		"collections": "Fishes,Minimal",
+		"collections": "Fishes,Minimal,Japan",
 		"downloadable": false,
 		"dimensions": "1284 x 2778 px"
 	},
@@ -1507,7 +1507,7 @@
 		"name": "Minimal Koi 3",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalKoi3.png",
-		"collections": "Fishes,Minimal",
+		"collections": "Fishes,Minimal,Japan",
 		"downloadable": false,
 		"dimensions": "1284 x 2778 px"	
 	},
@@ -1515,7 +1515,7 @@
 		"name": "Alone Japan Tree",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneJapanTree.png",
-		"collections": "Landscapes,Minimal",
+		"collections": "Landscapes,Minimal,Japan",
 		"downloadable": false,
 		"dimensions": "1284 x 2778 px"
 	},
@@ -1523,7 +1523,7 @@
 		"name": "Alone Japan Tree 1",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneJapanTree1.png",
-		"collections": "Landscapes,Minimal",
+		"collections": "Landscapes,Minimal,Japan",
 		"downloadable": false,
 		"dimensions": "1284 x 2778 px"
 	},
@@ -1531,7 +1531,7 @@
 		"name": "Alone Japan Tree 2",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneJapanTree2.png",
-		"collections": "Landscapes,Minimal",
+		"collections": "Landscapes,Minimal,Japan",
 		"downloadable": false,
 		"dimensions": "1284 x 2778 px"
 	},
@@ -1539,7 +1539,7 @@
 		"name": "Alone Japan Tree 3",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneJapanTree3.png",
-		"collections": "Landscapes,Minimal",
+		"collections": "Landscapes,Minimal,Japan",
 		"downloadable": false,
 		"dimensions": "1284 x 2778 px"	
 	},
@@ -1547,7 +1547,7 @@
 		"name": "Japan Minimal 15",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanMinimal15.png",
-		"collections": "Landscapes,Minimal",
+		"collections": "Landscapes,Minimal,Japan",
 		"downloadable": false,
 		"dimensions": "1284 x 2778 px"
 	},
@@ -1555,7 +1555,7 @@
 		"name": "Japan Minimal 16",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanMinimal16.png",
-		"collections": "Landscapes,Minimal",
+		"collections": "Landscapes,Minimal,Japan",
 		"downloadable": false,
 		"dimensions": "1284 x 2778 px"
 	},
@@ -1563,7 +1563,7 @@
 		"name": "Japan Minimal 17",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanMinimal17.png",
-		"collections": "Landscapes,Minimal",
+		"collections": "Landscapes,Minimal,Japan",
 		"downloadable": false,
 		"dimensions": "1284 x 2778 px"
 	},
@@ -1571,7 +1571,7 @@
 		"name": "Japan Minimal 18",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanMinimal18.png",
-		"collections": "Landscapes,Minimal",
+		"collections": "Landscapes,Minimal,Japan",
 		"downloadable": false,
 		"dimensions": "1284 x 2778 px"	
 	},
@@ -1820,7 +1820,7 @@
 		"author": "Matias Eckerdt",
 		"downloadable": false,
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan6.png",
-		"collections": "Minimal",
+		"collections": "Minimal,Japan",
                 "dimensions": "1284 x 2778"
 	},
 	{
@@ -1828,7 +1828,7 @@
 		"author": "Matias Eckerdt",
 		"downloadable": false,
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan7.png",
-		"collections": "Minimal",
+		"collections": "Minimal,Japan",
                 "dimensions": "1284 x 2778"
 	},
 	{
@@ -1836,7 +1836,7 @@
 		"author": "Matias Eckerdt",
 		"downloadable": false,
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan8.png",
-		"collections": "Minimal",
+		"collections": "Minimal,Japan",
                 "dimensions": "1284 x 2778"	
 	},
 	{
@@ -1915,7 +1915,7 @@
                 "name": "Japan Koi 8",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanKoi8.png",
-		"collections": "Fishes",
+		"collections": "Fishes,Japan",
 		"downloadable": false,
 		"dimensions": "2353 x 5099 px"
         },
@@ -1923,7 +1923,7 @@
                 "name": "Japan Koi 9",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanKoi9.png",
-		"collections": "Fishes",
+		"collections": "Fishes,Japan",
 		"downloadable": false,
 		"dimensions": "2353 x 5099 px"
         },
@@ -1931,7 +1931,7 @@
                 "name": "Japan Koi 10",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanKoi10.png",
-		"collections": "Fishes",
+		"collections": "Fishes,Japan",
 		"downloadable": false,
 		"dimensions": "2353 x 5099 px"
         },
@@ -1939,7 +1939,7 @@
                 "name": "Japan Green",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanGreen.png",
-		"collections": "Landscapes",
+		"collections": "Landscapes,Japan",
 		"downloadable": false,
 		"dimensions": "2353 x 5099 px"
         },
@@ -1947,7 +1947,7 @@
                 "name": "Japan Red",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanRed.png",
-		"collections": "Landscapes",
+		"collections": "Landscapes,Japan",
 		"downloadable": false,
 		"dimensions": "2353 x 5099 px"
         },
@@ -1955,7 +1955,7 @@
                 "name": "Japan Green 1",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanGreen1.png",
-		"collections": "Landscapes",
+		"collections": "Landscapes,Japan",
 		"downloadable": false,
 		"dimensions": "2353 x 5099 px"
         },
@@ -1963,7 +1963,7 @@
                 "name": "Japan Red 1",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanRed1.png",
-		"collections": "Landscapes",
+		"collections": "Landscapes,Japan",
 		"downloadable": false,
 		"dimensions": "2353 x 5099 px"
         },
@@ -2048,7 +2048,7 @@
 		"dimensions": "2353 x 5099 px"
         },
 	{
-                "name": "WindMountainsAmoled",
+                "name": "Wind Mountains Amoled",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/WindMountainsAmoled.png",
 		"collections": "Landscapes,Amoled",
@@ -2099,7 +2099,7 @@
                 "name": "Japan Beauty",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanBeauty.png",
-		"collections": "Landscapes",
+		"collections": "Landscapes,Japan",
 		"downloadable": false,
 		"dimensions": "2353 x 5099 px"
         },
@@ -2107,7 +2107,7 @@
                 "name": "Japan Beauty 1",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanBeauty1.png",
-		"collections": "Landscapes",
+		"collections": "Landscapes,Japan",
 		"downloadable": false,
 		"dimensions": "2353 x 5099 px"
         },
@@ -2115,7 +2115,7 @@
                 "name": "Japan Beauty 2",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanBeauty2.png",
-		"collections": "Landscapes",
+		"collections": "Landscapes,Japan",
 		"downloadable": false,
 		"dimensions": "2353 x 5099 px"
         },
@@ -2123,7 +2123,7 @@
                 "name": "Japan Beauty 3",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanBeauty3.png",
-		"collections": "Landscapes",
+		"collections": "Landscapes,Japan",
 		"downloadable": false,
 		"dimensions": "2353 x 5099 px"
         },
@@ -2404,31 +2404,31 @@
                 "name": "Japan Mountain",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanMountain.png",
-		"collections": "Landscapes",
+		"collections": "Landscapes,Japan",
 		"downloadable": false,
 		"dimensions": "2353 x 5099 px"
         },
 	{
-                "name": "Japan Mountain",
+                "name": "Japan Mountain 1",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanMountain1.png",
-		"collections": "Landscapes",
+		"collections": "Landscapes,Japan",
 		"downloadable": false,
 		"dimensions": "2353 x 5099 px"
         },
 	{
-                "name": "Japan Mountain",
+                "name": "Japan Mountain 2",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanMountain2.png",
-		"collections": "Landscapes",
+		"collections": "Landscapes,Japan",
 		"downloadable": false,
 		"dimensions": "2353 x 5099 px"
         },
 	{
-                "name": "Japan Mountain",
+                "name": "Japan Mountain 3",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanMountain3.png",
-		"collections": "Landscapes",
+		"collections": "Landscapes,Japan",
 		"downloadable": false,
 		"dimensions": "2353 x 5099 px"
         },
@@ -2620,7 +2620,7 @@
                 "name": "Beauty Japan 1",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan1.png",
-		"collections": "Landscapes",
+		"collections": "Landscapes,Japan",
 		"downloadable": false,
 		"dimensions": "2353 x 5099 px"
         },
@@ -2628,7 +2628,7 @@
                 "name": "Beauty Japan 2",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan2.png",
-		"collections": "Landscapes",
+		"collections": "Landscapes,Japan",
 		"downloadable": false,
 		"dimensions": "2353 x 5099 px"
         },
@@ -2636,7 +2636,7 @@
                 "name": "Beauty Japan 3",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan3.png",
-		"collections": "Landscapes",
+		"collections": "Landscapes,Japan",
 		"downloadable": false,
 		"dimensions": "2353 x 5099 px"
         },
@@ -3517,7 +3517,7 @@
                 "name": "Japan Koi 6",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanKoi6.png",
-		"collections": "Fishes",
+		"collections": "Fishes,Japan",
 		"downloadable": false,
 		"dimensions": "2353 x 5099 px"
         },
@@ -3525,7 +3525,7 @@
                 "name": "Japan Koi 7",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanKoi7.png",
-		"collections": "Fishes",
+		"collections": "Fishes,Japan",
 		"downloadable": false,
 		"dimensions": "2353 x 5099 px"
         },
@@ -3621,7 +3621,7 @@
                 "name": "Japan Koi 4",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanKoi4.png",
-		"collections": "Fishes",
+		"collections": "Fishes,Japan",
 		"downloadable": false,
 		"dimensions": "2353 x 5099 px"
         },
@@ -3629,7 +3629,7 @@
                 "name": "Japan Koi 5",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanKoi5.png",
-		"collections": "Fishes",
+		"collections": "Fishes,Japan",
 		"downloadable": false,
 		"dimensions": "2353 x 5099 px"
         },
@@ -3937,7 +3937,7 @@
                 "name": "Japan Koi",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanKoi.png",
-		"collections": "Fishes",
+		"collections": "Fishes,Japan",
 		"downloadable": false,
 		"dimensions": "2353 x 5099 px"
         },
@@ -3945,7 +3945,7 @@
                 "name": "Japan Koi 1",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanKoi1.png",
-		"collections": "Fishes",
+		"collections": "Fishes,Japan",
 		"downloadable": false,
 		"dimensions": "2353 x 5099 px"
         },
@@ -3953,7 +3953,7 @@
                 "name": "Japan Koi 2",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanKoi2.png",
-		"collections": "Fishes",
+		"collections": "Fishes,Japan",
 		"downloadable": false,
 		"dimensions": "2353 x 5099 px"
         },
@@ -3961,7 +3961,7 @@
                 "name": "Japan Koi 3",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanKoi3.png",
-		"collections": "Fishes",
+		"collections": "Fishes,Japan",
 		"downloadable": false,
 		"dimensions": "2353 x 5099 px"
         },
