@@ -1,11 +1,43 @@
 [
 	{       
-		"name": "Christmas Pattern",
+		"name": "Realistic Christmas",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/ChristmasPattern.png",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/RealisticChristmas1.png",
 		"collections": "Christmas",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Realistic Christmas 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/RealisticChristmas1.png",
+		"collections": "Christmas",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Realistic Christmas 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/RealisticChristmas2.png",
+		"collections": "Christmas",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Realistic Christmas 3",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/RealisticChristmas3.png",
+		"collections": "Christmas",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Realistic Christmas 4",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/RealisticChristmas4.png",
+		"collections": "Christmas",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"	
 	},
 	{
 		"name": "Christmas Pattern 1",
