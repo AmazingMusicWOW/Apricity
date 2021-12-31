@@ -1,5 +1,21 @@
 [
       { 
+	"name": "New Year",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewYear1.png",
+	"collections": "New Year",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {                  
+	"name": "New Year 2",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewYear2.png",
+	"collections": "New Year",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"	      
+     },
+     {                  
 	"name": "New Year 5",
         "author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewYear5.png",
