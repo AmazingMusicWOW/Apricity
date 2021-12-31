@@ -1,5 +1,45 @@
 [
       { 
+	"name": "New Year 5",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewYear5.png",
+	"collections": "New Year",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {            
+	"name": "New Year 6",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewYear6.png",
+	"collections": "New Year",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {            
+	"name": "New Year 7",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewYear7.png",
+	"collections": "New Year",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {            
+	"name": "New Year 13",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewYear13.png",
+	"collections": "New Year",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {            
+	"name": "New Year 14",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewYear14.png",
+	"collections": "New Year",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"	     
+     },
+     {            
 	"name": "Liquid 409",
         "author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid409.png",
