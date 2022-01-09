@@ -59,7 +59,7 @@
 	"name": "Liquid 435",
         "author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid435.png",
-	"collections": "Liquid",
+	"collections": "Liquid,Low Light",
 	"downloadable": false,
 	"dimensions": "1440 x 3200 px"
      },
@@ -102,6 +102,14 @@
 	"collections": "Liquid,Gray",
 	"downloadable": false,
 	"dimensions": "1440 x 3200 px"
+     },
+     {      
+	"name": "Liquid 441",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid441.png",
+	"collections": "Liquid,Low Light",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"	     
      },
      {	                                     
 	"name": "Smooth Gradient 103",
