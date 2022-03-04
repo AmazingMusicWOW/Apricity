@@ -1,5 +1,37 @@
 [
 	{       
+		"name": "Beauty Beach",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyBeach1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Beauty Beach 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyBeach1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Beauty Sunset 3",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySunset3.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Beauty Sunset 4",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySunset4.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"	
+	},
+	{
 		"name": "Beauty Japan 34",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan34.png",
