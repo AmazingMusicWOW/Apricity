@@ -29,6 +29,14 @@
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan50.png",
 		"collections": "Landscapes,Japan",
 		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Beauty Japan 51",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan51.png",
+		"collections": "Landscapes,Japan",
+		"downloadable": false,
 		"dimensions": "1440 x 3200 px"	
 	},
 	{
