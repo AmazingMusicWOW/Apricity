@@ -445,63 +445,7 @@
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DesertGrandiet6.png",
 		"collections": "Landscapes,Desert",
 		"downloadable": false,
-		"dimensions": "1440 x 3200 px"	
-	},
-	{
-		"name": "Simple Rocket Space",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SimpleRocketSpace.png",
-		"collections": "Space",
-		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-	},
-	{
-		"name": "Simple Rocket Space 1",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SimpleRocketSpace1.png",
-		"collections": "Space",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-	},
-	{
-		"name": "Simple Rocket Space 2",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SimpleRocketSpace2.png",
-		"collections": "Space",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-	},
-	{
-		"name": "Simple Rocket Space 3",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SimpleRocketSpace3.png",
-		"collections": "Space",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-	},
-	{
-		"name": "Simple Rocket Space 4",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SimpleRocketSpace4.png",
-		"collections": "Space",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-	},
-	{
-		"name": "Simple Rocket Space 5",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SimpleRocketSpace5.png",
-		"collections": "Space",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-	},
-	{
-		"name": "Simple Rocket Space 6",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SimpleRocketSpace6.png",
-		"collections": "Space",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"	
 	},
 	{
 		"name": "New Deer Mountains 3",
