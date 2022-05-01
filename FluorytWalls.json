@@ -1,5 +1,85 @@
 [
       { 
+	"name": "Minimal Waves 109",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalWaves109.png",
+	"collections": "Waves",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {      
+	"name": "Minimal Waves 110",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalWaves110.png",
+	"collections": "Waves",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {      
+	"name": "Minimal Waves 111",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalWaves111.png",
+	"collections": "Waves",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {      
+	"name": "Minimal Waves 112",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalWaves112.png",
+	"collections": "Waves",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {      
+	"name": "Minimal Waves 113",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalWaves113.png",
+	"collections": "Waves",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {      
+	"name": "Minimal Waves 114",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalWaves114.png",
+	"collections": "Waves",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {      
+	"name": "Minimal Waves 115",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalWaves115.png",
+	"collections": "Waves",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"	     
+     },
+     {                  
+	"name": "Liquid 635",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid635.png",
+	"collections": "Liquid,Grain",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {            
+	"name": "Liquid 636",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid636.png",
+	"collections": "Liquid,Grain",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {            
+	"name": "Smooth Gradient 127",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SmoothGradient127.png",
+	"collections": "Smooth Gradient",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"	     
+     },
+     {            
 	"name": "Liquid 627",
         "author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid627.png",
