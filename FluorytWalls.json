@@ -1,5 +1,53 @@
 [
       { 
+	"name": "Smooth Liquid 6",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SmoothLiquid6.png",
+	"collections": "Smooth Liquid",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {                        
+	"name": "Smooth Liquid 7",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SmoothLiquid7.png",
+	"collections": "Smooth Liquid",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {                        
+	"name": "Smooth Liquid 8",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SmoothLiquid8.png",
+	"collections": "Smooth Liquid",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {                        
+	"name": "Smooth Liquid 9",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SmoothLiquid9.png",
+	"collections": "Smooth Liquid",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {                        
+	"name": "Smooth Liquid 10",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SmoothLiquid10.png",
+	"collections": "Smooth Liquid",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {                        
+	"name": "Smooth Liquid 11",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SmoothLiquid11.png",
+	"collections": "Smooth Liquid",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"	     
+     },
+     {                        
 	"name": "Smooth Liquid",
         "author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SmoothLiquid.png",
