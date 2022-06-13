@@ -96,14 +96,6 @@
 		"dimensions": "1440 x 3200 px"
 	},
 	{
-		"name": "Beauty Japan 75",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan75.png",
-		"collections": "Landscapes,Japan",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"	
-	},
-	{
 		"name": "Beautiful Magic Forest 4",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautifulMagicForest4.png",
