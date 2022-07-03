@@ -1467,7 +1467,7 @@
 		"name": "Night Plants",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NightPlants.png",
-		"collections": "Minimal",
+		"collections": "Floral",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
 	},
@@ -1475,7 +1475,7 @@
 		"name": "Night Plants 1",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NightPlants1.png",
-		"collections": "Minimal",
+		"collections": "Floral",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
 	},
@@ -1483,7 +1483,7 @@
 		"name": "Night Plants 2",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NightPlants2.png",
-		"collections": "Minimal",
+		"collections": "Floral",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
 	},
@@ -1651,7 +1651,7 @@
 		"name": "Beautiful Flowers 1",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautifulFlowers1.png",
-		"collections": "Minimal",
+		"collections": "Floral",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
 	},
@@ -1659,7 +1659,7 @@
 		"name": "Beautiful Flowers 2",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautifulFlowers2.png",
-		"collections": "Minimal",
+		"collections": "Floral",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
 	},
@@ -1667,7 +1667,7 @@
 		"name": "Beautiful Flowers 3",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautifulFlowers3.png",
-		"collections": "Minimal",
+		"collections": "Floral",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"	
 	},
@@ -2428,38 +2428,6 @@
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/ColorsOuterSpace1.png",
 		"collections": "Space",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"	
-	},
-	{
-		"name": "Japanese Tree",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapaneseTree.png",
-		"collections": "Landscapes,Minimal,Japan",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-	},
-	{
-		"name": "Japanese Tree 1",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapaneseTree1.png",
-		"collections": "Landscapes,Minimal,Japan",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-	},
-	{
-		"name": "Japanese Tree 2",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapaneseTree2.png",
-		"collections": "Landscapes,Minimal,Japan",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-	},
-	{
-		"name": "Japanese Tree 3",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapaneseTree3.png",
-		"collections": "Landscapes,Minimal,Japan",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"	
 	},
