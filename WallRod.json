@@ -1,5 +1,37 @@
 [
 	{       
+		"name": "Beauty Sky Mountains 5",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySkyMountains5.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Beauty Sky Mountains 6",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySkyMountains6.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Beauty Sky Mountains 7",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySkyMountains7.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Beauty Sky Mountains 8",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySkyMountains8.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"	
+	},
+	{
 		"name": "Beauty Japan 75",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan75.png",
