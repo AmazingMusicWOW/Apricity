@@ -1,5 +1,53 @@
 [
       { 
+	"name": "Smooth Liquid 41",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SmoothLiquid41.png",
+	"collections": "Smooth Liquid",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {                              
+	"name": "Smooth Liquid 42",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SmoothLiquid42.png",
+	"collections": "Smooth Liquid",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {                              
+	"name": "Smooth Liquid 43",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SmoothLiquid43.png",
+	"collections": "Smooth Liquid",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {                              
+	"name": "Smooth Liquid 44",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SmoothLiquid44.png",
+	"collections": "Smooth Liquid",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {                              
+	"name": "Smooth Liquid 45",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SmoothLiquid45.png",
+	"collections": "Smooth Liquid",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {      
+	"name": "Smooth Gradient 135",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SmoothGradient135.png",
+	"collections": "Smooth Gradient",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"	     
+     },
+     {                              
 	"name": "Gradient Waves 20",
         "author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GradientWaves20.png",
