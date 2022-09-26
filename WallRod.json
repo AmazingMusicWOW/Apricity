@@ -1,5 +1,29 @@
 [
 	{       
+		"name": "Beauty Mountains Deer",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyMountainsDeer.png",
+		"collections": "Landscapes,Deer",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Beauty Mountains Deer 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyMountainsDeer1.png",
+		"collections": "Landscapes,Deer",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Beauty Mountains Deer 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyMountainsDeer2.png",
+		"collections": "Landscapes,Deer",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"	
+	},
+	{
 		"name": "Beauty Space 15",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySpace15.png",
