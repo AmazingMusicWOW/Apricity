@@ -264,46 +264,6 @@
 		"dimensions": "1440 x 3200 px"	
 	},
 	{
-		"name": "Japan Beauty 88",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan88.png",
-		"collections": "Japan",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-	},
-	{
-		"name": "Japan Beauty 89",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan89.png",
-		"collections": "Japan",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-	},
-	{
-		"name": "Japan Beauty 90",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan90.png",
-		"collections": "Japan",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-	},
-	{
-		"name": "Japan Beauty 91",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan91.png",
-		"collections": "Japan",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-	},
-	{
-		"name": "Japan Beauty 92",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan92.png",
-		"collections": "Japan",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"	
-	},
-	{
 		"name": "Little House In The Mountains 5",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LittleHouseInTheMountains5.png",
@@ -957,79 +917,7 @@
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySkyMountains9.png",
 		"collections": "Landscapes",
 		"downloadable": false,
-		"dimensions": "1440 x 3200 px"	
-	},
-	{
-		"name": "Beauty Japan 75",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan75.png",
-		"collections": "Landscapes,Japan",
-		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-	},
-	{
-		"name": "Beauty Japan 76",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan76.png",
-		"collections": "Landscapes,Japan",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-	},
-	{
-		"name": "Beauty Japan 77",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan77.png",
-		"collections": "Landscapes,Japan",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-	},
-	{
-		"name": "Beauty Japan 78",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan78.png",
-		"collections": "Landscapes,Japan",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-	},
-	{
-		"name": "Beauty Japan 79",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan79.png",
-		"collections": "Landscapes,Japan",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-	},
-	{
-		"name": "Beauty Japan 80",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan80.png",
-		"collections": "Landscapes,Japan",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-	},
-	{
-		"name": "Beauty Japan 81",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan81.png",
-		"collections": "Landscapes,Japan",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-	},
-	{
-		"name": "Beauty Japan 82",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan82.png",
-		"collections": "Landscapes,Japan",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-	},
-	{
-		"name": "Beauty Japan 83",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan83.png",
-		"collections": "Landscapes,Japan",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"	
 	},
 	{
 		"name": "Beauty Boat View",
@@ -1315,7 +1203,7 @@
 		"name": "Beauty Sky Desert",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySkyDesert.png",
-		"collections": "Landscapes,Japan",
+		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
 	},
@@ -1323,7 +1211,7 @@
 		"name": "Beauty Sky Desert 1",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySkyDesert1.png",
-		"collections": "Landscapes,Japan",
+		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
 	},
@@ -1331,7 +1219,7 @@
 		"name": "Beauty Sky Desert 2",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySkyDesert2.png",
-		"collections": "Landscapes,Japan",
+		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
 	},
@@ -1339,7 +1227,7 @@
 		"name": "Beauty Sky Desert 3",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySkyDesert3.png",
-		"collections": "Landscapes,Japan",
+		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
 	},
@@ -1347,7 +1235,7 @@
 		"name": "Beauty Sky Desert 4",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySkyDesert4.png",
-		"collections": "Landscapes,Japan",
+		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
 	},
@@ -1355,7 +1243,7 @@
 		"name": "Beauty Sky Desert 5",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySkyDesert5.png",
-		"collections": "Landscapes,Japan",
+		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
 	},
@@ -1363,7 +1251,7 @@
 		"name": "Beauty Sky Desert 6",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySkyDesert6.png",
-		"collections": "Landscapes,Japan",
+		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"	
 	},
@@ -1595,7 +1483,7 @@
 		"name": "Pine Tree Landscape 1",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PineTreeLandscape1.png",
-		"collections": "Landscapes,Japan",
+		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
 	},
@@ -1603,7 +1491,7 @@
 		"name": "Pine Tree Landscape 2",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PineTreeLandscape2.png",
-		"collections": "Landscapes,Japan",
+		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"	
 	},
