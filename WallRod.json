@@ -7976,7 +7976,7 @@
 		"name": "Secret Sword",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SecretSword.png",
-		"collections": "Landscapes",
+		"collections": "Landscapes,Sword",
 		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
@@ -7984,7 +7984,7 @@
 		"name": "Secret Sword 1",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SecretSword1.png",
-		"collections": "Landscapes",
+		"collections": "Landscapes,Sword",
 		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
@@ -7992,7 +7992,7 @@
 		"name": "Secret Sword 3",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SecretSword3.png",
-		"collections": "Landscapes",
+		"collections": "Landscapes,Sword",
 		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
@@ -8000,7 +8000,7 @@
 		"name": "Secret Sword 2",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SecretSword2.png",
-		"collections": "Landscapes",
+		"collections": "Landscapes,Sword",
 		"downloadable": false,
                 "dimensions": "2000 x 4000 px"
         },
