@@ -1,13 +1,5 @@
 [
       { 
-	"name": "Liquid 789",
-        "author": "Matias Eckerdt",
-	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid789.png",
-	"collections": "Liquid,Minimal",
-	"downloadable": false,
-	"dimensions": "1440 x 3200 px"
-     },
-     {                             
 	"name": "Liquid 806",
         "author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid806.png",
@@ -75,6 +67,14 @@
 	"name": "Liquid 814",
         "author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid814.png",
+	"collections": "Liquid,Minimal",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {                             
+	"name": "Liquid 789",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid789.png",
 	"collections": "Liquid,Minimal",
 	"downloadable": false,
 	"dimensions": "1440 x 3200 px"
