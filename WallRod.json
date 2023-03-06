@@ -1,5 +1,77 @@
 [
 	{       
+		"name": "Beauty Space 21",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySpace21.png",
+		"collections": "Space",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Beauty Space 22",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySpace22.png",
+		"collections": "Space",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Beauty Space 23",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySpace23.png",
+		"collections": "Space",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Beauty Space 24",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySpace24.png",
+		"collections": "Space",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Beauty Japan 108",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan108.png",
+		"collections": "Japan",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Beauty Japan 109",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan109.png",
+		"collections": "Japan",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Beauty Japan 110",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan110.png",
+		"collections": "Japan",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Beauty Japan 111",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan111.png",
+		"collections": "Japan",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Beauty Japan 112",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan112.png",
+		"collections": "Japan",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
 		"name": "New Beautiful Landscape 2",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewBeautifulLandscape2.png",
