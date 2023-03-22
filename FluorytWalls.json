@@ -1,8 +1,80 @@
 [
       { 
-	"name": "Liquid 827",
+	"name": "Color Lights",
         "author": "Matias Eckerdt",
-	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid827.png",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/ColorLights.png",
+	"collections": "Lights",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {                             
+	"name": "Color Lights 1",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/ColorLights1.png",
+	"collections": "Lights",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {                             
+	"name": "Color Lights 2",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/ColorLights2.png",
+	"collections": "Lights",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {                             
+	"name": "Color Lights 3",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/ColorLights3.png",
+	"collections": "Lights",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {                             
+	"name": "Color Lights 4",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/ColorLights4.png",
+	"collections": "Lights",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {                             
+	"name": "Liquid 832",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid832.png",
+	"collections": "Liquid",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {                             
+	"name": "Liquid 833",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid833.png",
+	"collections": "Liquid",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {                             
+	"name": "Liquid 834",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid834.png",
+	"collections": "Liquid",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {                             
+	"name": "Liquid 835",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid835.png",
+	"collections": "Liquid",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {                             
+	"name": "Liquid 836",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid836.png",
 	"collections": "Liquid",
 	"downloadable": false,
 	"dimensions": "1440 x 3200 px"
