@@ -1,5 +1,53 @@
 [
       { 
+	"name": "Waves 240",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Waves240.png",
+	"collections": "Waves",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {                             
+	"name": "Waves 241",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Waves241.png",
+	"collections": "Waves",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {                             
+	"name": "Waves 242",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Waves242.png",
+	"collections": "Waves",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {                             
+	"name": "Waves 243",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Waves243.png",
+	"collections": "Waves",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {                             
+	"name": "Waves 244",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Waves244.png",
+	"collections": "Waves",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {                             
+	"name": "Waves 245",
+        "author": "Matias Eckerdt",
+	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Waves245.png",
+	"collections": "Waves",
+	"downloadable": false,
+	"dimensions": "1440 x 3200 px"
+     },
+     {                             
 	"name": "Waves 234",
         "author": "Matias Eckerdt",
 	"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Waves234.png",
