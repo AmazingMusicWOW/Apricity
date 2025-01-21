@@ -10,63 +10,15 @@
 	{
 		"name": "Beauty Sun Floral",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautySunFloral.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautySunFloral.png",
 		"collections": "Floral",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-	},
-	{
-		"name": "Merry Christmas",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautyChristmasTexture.png",
-		"collections": "Christmas",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-	},
-	{
-		"name": "Merry Christmas 1",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautyChristmasTexture1.png",
-		"collections": "Christmas",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-	},
-	{
-		"name": "Merry Christmas 2",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautyChristmasTexture2.png",
-		"collections": "Christmas",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-	},
-	{
-		"name": "Merry Christmas 3",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautyChristmasTexture3.png",
-		"collections": "Christmas",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-	},
-	{
-		"name": "Merry Christmas 4",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautyChristmasTexture4.png",
-		"collections": "Christmas",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-	},
-	{
-		"name": "Merry Christmas 5",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautyChristmasTexture5.png",
-		"collections": "Christmas",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
 	},
 	{
 		"name": "Beauty Snow Man",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautySnowMan.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautySnowMan.png",
 		"collections": "Christmas",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -74,7 +26,7 @@
 	{
 		"name": "Beauty Snow Man 1",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautySnowMan1.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautySnowMan1.png",
 		"collections": "Christmas",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -82,7 +34,7 @@
 	{
 		"name": "Beauty Snow Man 2",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautySnowMan2.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautySnowMan2.png",
 		"collections": "Christmas",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -90,7 +42,7 @@
 	{
 		"name": "Beauty Village Green",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautyVillageGreen.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautyVillageGreen.png",
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -98,7 +50,7 @@
 	{
 		"name": "Black Desert",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BlackDesert.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/BlackDesert.png",
 		"collections": "Desert",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -106,7 +58,7 @@
 	{
 		"name": "Beauty Sky Building",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautySkyBuilding.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautySkyBuilding.png",
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -114,7 +66,7 @@
 	{
 		"name": "Spirit Fox",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/SpiritFox.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/SpiritFox.png",
 		"collections": "Fox",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
