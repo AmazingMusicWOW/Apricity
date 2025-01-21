@@ -504,17 +504,9 @@
 		"dimensions": "1440 x 3200 px"
 	},
 	{
-		"name": "Beauty Calm River",
-		"author": "Matias Eckerdt",
-		"url": "https://amazingmusicwow.github.io/Apricity/BeautyCalmRiver.png",
-		"collections": "Landscapes",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-	},
-	{
 		"name": "Minimal Gradient Mountain",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/MinimalGradientMountain.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/MinimalGradientMountain.png",
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -522,7 +514,7 @@
 	{
 		"name": "Minimal Gradient Mountain 1",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/MinimalGradientMountain1.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/master/MinimalGradientMountain1.png",
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -530,7 +522,7 @@
 	{
 		"name": "Green Gradient Plants",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/GreenGradientPlants.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/GreenGradientPlants.png",
 		"collections": "Floral",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -538,7 +530,7 @@
 	{
 		"name": "Beauty Blue Yellow Bird",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautyBlueYellowBird.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautyBlueYellowBird.png",
 		"collections": "Birds",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -546,31 +538,15 @@
 	{
 		"name": "Beautiful Gradient Desert",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautifulGradientDesert.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautifulGradientDesert1.png",
 		"collections": "Landscapes,Desert",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-	},
-	{
-		"name": "Beauty Blue Tree",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautyBlueTree.png",
-		"collections": "Landscapes",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-	},
-	{
-		"name": "Japan Kitsune",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/JapanKitsune.png",
-		"collections": "Fox",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
 	},
 	{
 		"name": "Multiple Mountains Sunset 1",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/MultipleMountainsSunset1.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/MultipleMountainsSunset1.png",
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -578,7 +554,7 @@
 	{
 		"name": "Walking In Desert",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/WalkingInDesert.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/master/WalkingInDesert.png",
 		"collections": "Landscapes,Desert",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -586,7 +562,7 @@
 	{
 		"name": "Nebula Girl",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/NebulaGirl.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/NebulaGirl.png",
 		"collections": "Space",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -594,7 +570,7 @@
 	{
 		"name": "Nebula Girl 1",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/NebulaGirl1.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/NebulaGirl1.png",
 		"collections": "Space",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -602,7 +578,7 @@
 	{
 		"name": "Isometric Boat",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/IsometricBoat.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/IsometricBoat.png",
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -610,7 +586,7 @@
 	{
 		"name": "Isometric Boat Night",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/IsometricBoatNight.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/IsometricBoatNight.png",
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -618,7 +594,7 @@
 	{
 		"name": "Multiple Mountains Sunset",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/MultipleMountainsSunset.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/MultipleMountainsSunset.png",
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -626,7 +602,7 @@
 	{
 		"name": "Beauty Green Christmas Tree",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautyGreenChristmasTree.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautyGreenChristmasTree.png",
 		"collections": "Christmas",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -634,7 +610,7 @@
 	{
 		"name": "Happy Santa",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/HappySantaChristmas.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/HappySantaChristmas.png",
 		"collections": "Christmas",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -642,7 +618,7 @@
 	{
 		"name": "Happy Santa 1",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/HappySantaChristmas1.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/HappySantaChristmas1.png",
 		"collections": "Christmas",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -650,7 +626,7 @@
 	{
 		"name": "Happy Santa 2",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/HappySantaChristmas2.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/HappySantaChristmas2.png",
 		"collections": "Christmas",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -658,7 +634,7 @@
 	{
 		"name": "Little House Winter",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/LittleHouseWinter.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/LittleHouseWinter.png",
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -666,7 +642,7 @@
 	{
 		"name": "Sunset LightHouse",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/SunsetLightHouse.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/SunsetLightHouse.png",
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -674,15 +650,7 @@
 	{
 		"name": "Beauty Sunset Hills",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautySunsetHills.png",
-		"collections": "Landscapes",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-	},
-	{
-		"name": "Beauty Sunset Hills",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautySunsetHills.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautySunsetHills.png",
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -690,7 +658,7 @@
 	{
 		"name": "Beauty Colors Rocket",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautyColorsRocket.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautyColorsRocket.png",
 		"collections": "Space",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -698,7 +666,7 @@
 	{
 		"name": "Beauty Colors Rocket 1",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautyColorsRocket1.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautyColorsRocket1.png",
 		"collections": "Space",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -706,7 +674,7 @@
 	{
 		"name": "Beauty Colors Rocket 2",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautyColorsRocket2.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautyColorsRocket2.png",
 		"collections": "Space",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -714,7 +682,7 @@
 	{
 		"name": "Beauty Red and Blue Bird",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautyRedAndBlueBird.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautyRedAndBlueBird.png",
 		"collections": "Birds",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -722,7 +690,7 @@
 	{
 		"name": "Beauty Red and Blue Bird 1",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautyRedAndBlueBird1.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautyRedAndBlueBird1.png",
 		"collections": "Birds",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -730,7 +698,7 @@
 	{
 		"name": "Night House Tree",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/NightHouseTree.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/NightHouseTree.png",
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -738,7 +706,7 @@
 	{
 		"name": "Amazing House Forest",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/AmazingHouseForest.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/AmazingHouseForest1.png",
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -746,7 +714,7 @@
 	{
 		"name": "Beauty Fox Wind",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautyFoxWind.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautyFoxWind.png",
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -754,7 +722,7 @@
 	{
 		"name": "Sunrise Winter",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/SunriseWinter.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/SunriseWinter.png",
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -762,7 +730,7 @@
 	{
 		"name": "Beauty Tori Mountain Japan",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautyToriMountainJapan.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautyToriMountainJapan.png",
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -770,7 +738,7 @@
 	{
 		"name": "Lonely Mountain Gradient",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/LonelyMountainGradient.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/LonelyMountainGradient.png",
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -778,7 +746,7 @@
 	{
 		"name": "Beautiful Gradient Flowers",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautifulGradientFlowers.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautifulGradientFlowers.png",
 		"collections": "Floral",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -786,7 +754,7 @@
 	{
 		"name": "Cute Halloween Cat",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/CuteHalloweenCat.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/CuteHalloweenCat.png",
 		"collections": "Halloween",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -794,7 +762,7 @@
 	{
 		"name": "Cute Halloween Cat 1",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/CuteHalloweenCat1.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/CuteHalloweenCat1.png",
 		"collections": "Halloween",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -802,7 +770,7 @@
 	{
 		"name": "Cute Halloween Cat 2",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/CuteHalloweenCat2.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/master/CuteHalloweenCat2.png",
 		"collections": "Halloween",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -810,7 +778,7 @@
 	{
 		"name": "Halloween Skull",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/HalloweenSkull.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/master/HalloweenSkull.png",
 		"collections": "Halloween",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -818,7 +786,7 @@
 	{
 		"name": "Beautiful Red Bird",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautifulRedBird.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/master/BeautifulRedBird.png",
 		"collections": "Birds",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -826,7 +794,7 @@
 	{
 		"name": "Minimal Gradient Mountains",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/MinimalGradientMountains.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/MinimalGradientMountains.png",
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -834,7 +802,7 @@
 	{
 		"name": "Minimal Gradient Mountains 1",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/MinimalGradientMountains1.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/MinimalGradientMountains1.png",
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -842,7 +810,7 @@
 	{
 		"name": "Beautiful Oasis Desert",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautifulOasisDesert.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautifulOasisDesert.png",
 		"collections": "Landscapes,Desert",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -850,7 +818,7 @@
 	{
 		"name": "Beauty Ocean Whales",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautyOceanWhales.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautyOceanWhales.png",
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -858,7 +826,7 @@
 	{
 		"name": "Amazing House View",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/AmazingHouseView.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/AmazingHouseView1.png",
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -866,7 +834,7 @@
 	{
 		"name": "Beauty Koi Fish 3",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautyKoiFish3.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautyKoiFish3.png",
 		"collections": "Koi",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -874,7 +842,7 @@
 	{
 		"name": "Beauty Koi Fish 4",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautyKoiFish4.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautyKoiFish4.png",
 		"collections": "Koi",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -882,7 +850,7 @@
 	{
 		"name": "Blue Mountains Night",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautyBlueMountainsNight.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautyBlueMountainsNight.png",
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -890,7 +858,7 @@
 	{
 		"name": "Beauty Mountains Sunset",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautyBlueMountainsSunset.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautyBlueMountainsSunset.png",
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -898,7 +866,7 @@
 	{
 		"name": "Beauty Bonsai",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautyBonsai.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautyBonsai.png",
 		"collections": "Floral",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -906,7 +874,7 @@
 	{
 		"name": "Beauty Bonsai 1",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautyBonsai1.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautyBonsai1.png",
 		"collections": "Floral",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -914,23 +882,15 @@
 	{
 		"name": "Sunset Plane Mountains",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/SunsetPlaneMountains.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/SunsetPlaneMountains.png",
 		"collections": "Landscapes",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-	},
-	{
-		"name": "Beauty Mystical Deer",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautyMysticalDeer.png",
-		"collections": "Landscapes,Deer",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
 	},
 	{
 		"name": "Shark Under The Sea",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/SharkUnderTheSea.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/SharkUnderTheSea.png",
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -938,7 +898,7 @@
 	{
 		"name": "Beauty Little House",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautyLittleHouse.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautyLittleHouse.png",
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -946,7 +906,7 @@
 	{
 		"name": "Beauty Little House 1",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautyLittleHouse1.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautyLittleHouse1.png",
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -954,7 +914,7 @@
 	{
 		"name": "Beautiful Pine Forest",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautifulPineForest.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautifulPineForest.png",
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -962,7 +922,7 @@
 	{
 		"name": "Beautiful Pine Forest 1",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautifulPineForest1.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautifulPineForest1.png",
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -970,7 +930,7 @@
 	{
 		"name": "Cute Fox Butterfly",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/CuteFoxButterfly.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/CuteFoxButterfly.png",
 		"collections": "Fox",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -978,7 +938,7 @@
 	{
 		"name": "Cute Fox Butterfly 1",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/CuteFoxButterfly1.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/CuteFoxButterfly1.png",
 		"collections": "Fox",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -986,7 +946,7 @@
 	{
 		"name": "Cute Fox Butterfly 2",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/CuteFoxButterfly2.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/CuteFoxButterfly2.png",
 		"collections": "Fox",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -994,7 +954,7 @@
 	{
 		"name": "Cute Fox Butterfly 3",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/CuteFoxButterfly3.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/CuteFoxButterfly3.png",
 		"collections": "Fox",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -1002,7 +962,7 @@
 	{
 		"name": "Cute Fox Butterfly 4",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/CuteFoxButterfly4.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/CuteFoxButterfly4.png",
 		"collections": "Fox",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -1010,7 +970,7 @@
 	{
 		"name": "Beauty Blue Tit Bird",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautyBlueTitBird.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautyBlueTitBird.png",
 		"collections": "Birds",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -1018,7 +978,7 @@
 	{
 		"name": "Smooth Blue Mountains",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/SmoothBlueMountains.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/SmoothBlueMountains.png",
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
