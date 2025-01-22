@@ -504,14 +504,6 @@
 		"dimensions": "1440 x 3200 px"
 	},
 	{
-		"name": "Beauty Calm River",
-		"author": "Matias Eckerdt",
-		"url": "https://amazingmusicwow.github.io/Apricity/BeautyCalmRiver.png",
-		"collections": "Landscapes",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-	},
-	{
 		"name": "Minimal Gradient Mountain",
 		"author": "Matias Eckerdt",
 		"url": "https://amazingmusicwow.github.io/Apricity/MinimalGradientMountain.png",
@@ -912,14 +904,6 @@
 		"dimensions": "1440 x 3200 px"
 	},
 	{
-		"name": "Beauty Mystical Deer",
-		"author": "Matias Eckerdt",
-		"url": "https://amazingmusicwow.github.io/Apricity/BeautyMysticalDeer.png",
-		"collections": "Landscapes,Deer",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-	},
-	{
 		"name": "Shark Under The Sea",
 		"author": "Matias Eckerdt",
 		"url": "https://amazingmusicwow.github.io/Apricity/SharkUnderTheSea.png",
@@ -979,14 +963,6 @@
 		"name": "Cute Fox Butterfly 2",
 		"author": "Matias Eckerdt",
 		"url": "https://amazingmusicwow.github.io/Apricity/CuteFoxButterfly2.png",
-		"collections": "Fox",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-	},
-	{
-		"name": "Cute Fox Butterfly 3",
-		"author": "Matias Eckerdt",
-		"url": "https://amazingmusicwow.github.io/Apricity/CuteFoxButterfly3.png",
 		"collections": "Fox",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -1090,16 +1066,8 @@
 	{
 		"name": "Magic Koi 1",
 		"author": "Matias Eckerdt",
-		"url": "https://amazingmusicwow.github.io/Apricity/master/MagicKoi1.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/MagicKoi1.png",
 		"collections": "Koi",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-	},
-	{
-		"name": "Beauty Mini House Sunset",
-		"author": "Matias Eckerdt",
-		"url": "https://amazingmusicwow.github.io/Apricity/BeautyMiniHouseSunset.png",
-		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
 	},
@@ -1312,14 +1280,6 @@
 		"dimensions": "1440 x 3200 px"
 	},
 	{
-		"name": "Jumping Fox 2",
-		"author": "Matias Eckerdt",
-		"url": "https://amazingmusicwow.github.io/Apricity/master/JumpingFox2.png",
-		"collections": "Fox",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-	},
-	{
 		"name": "Jumping Fox 3",
 		"author": "Matias Eckerdt",
 		"url": "https://amazingmusicwow.github.io/Apricity/JumpingFox3.png",
@@ -1388,14 +1348,6 @@
 		"author": "Matias Eckerdt",
 		"url": "https://amazingmusicwow.github.io/Apricity/LittleDeerInTheForest.png",
 		"collections": "Landscapes,Deer",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-	},
-	{
-		"name": "Beauty Sunset Road",
-		"author": "Matias Eckerdt",
-		"url": "https://amazingmusicwow.github.io/Apricity/BeautySunsetRoad.png",
-		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
 	},
@@ -1482,7 +1434,7 @@
 	{
 		"name": "Beautiful Forest",
 		"author": "Matias Eckerdt",
-		"url": "https://amazingmusicwow.github.io/Apricity/BeautifulForest1.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautifulForest.png",
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -1888,14 +1840,6 @@
 		"dimensions": "1440 x 3200 px" 
         },
 	{
-		"name": "Beauty Hills House",
-		"author": "Matias Eckerdt",
-		"url": "https://amazingmusicwow.github.io/Apricity/BeautyHillsHouse.png",
-		"collections": "Landscapes",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-        },
-	{
 		"name": "Beauty Deer Couple",
 		"author": "Matias Eckerdt",
 		"url": "https://amazingmusicwow.github.io/Apricity/BeautyDeerCouple.png",
@@ -1944,9 +1888,9 @@
 		"dimensions": "1440 x 3200 px"
         },
 	{
-		"name": "Desert Night",
+		"name": "Blue Desert Night",
 		"author": "Matias Eckerdt",
-		"url": "https://amazingmusicwow.github.io/Apricity/DesertNight.png",
+		"url": "https://amazingmusicwow.github.io/Apricity/BlueDesertNight.png",
 		"collections": "Desert",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
@@ -1971,14 +1915,6 @@
 		"name": "Sleeping Fox 2",
 		"author": "Matias Eckerdt",
 		"url": "https://amazingmusicwow.github.io/Apricity/SleepingFox2.png",
-		"collections": "Fox",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-        },
-	{
-		"name": "Sleeping Fox 3",
-		"author": "Matias Eckerdt",
-		"url": "https://amazingmusicwow.github.io/Apricity/SleepingFox3.png",
 		"collections": "Fox",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
