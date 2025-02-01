@@ -1,5 +1,21 @@
 [
 	{      
+		"name": "Beauty Mountain Japan",
+		"author": "Matias Eckerdt",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautyMountainJapan.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Cute Kitties",
+		"author": "Matias Eckerdt",
+		"url": "https://amazingmusicwow.github.io/Apricity/CuteKitties.png",
+		"collections": "Cat",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
 		"name": "Beauty Sunset Purple Mountains",
 		"author": "Matias Eckerdt",
 		"url": "https://amazingmusicwow.github.io/Apricity/BeautySunsetPurpleMountains.png",
