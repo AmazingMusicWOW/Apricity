@@ -1,5 +1,53 @@
 [
 	{       
+		"name": "Minimal Cat Japan",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalCatJapan.png",
+		"collections": "Minimal",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Minimal Cat Japan 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalCatJapan1.png",
+		"collections": "Minimal",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Minimal Cat Japan 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalCatJapan2.png",
+		"collections": "Minimal",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Minimal Liquid 115",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalLiquid115.png",
+		"collections": "Abstract",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Minimal Liquid 116",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalLiquid116.png",
+		"collections": "Abstract",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Minimal Liquid 117",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalLiquid117.png",
+		"collections": "Abstract",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
 		"name": "Simple Liquid Waves 9",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SimpleLiquidWaves9.png",
