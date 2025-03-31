@@ -1,9 +1,33 @@
 [
 	{      
+		"name": "Green Mountains Sunrise",
+		"author": "Matias Eckerdt",
+		"url": "https://amazingmusicwow.github.io/Apricity/GreenMountainsSunrise.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Minimal House Tree Hill",
+		"author": "Matias Eckerdt",
+		"url": "https://amazingmusicwow.github.io/Apricity/MinimalHouseTreeHill.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Minimal Living Room",
+		"author": "Matias Eckerdt",
+		"url": "https://amazingmusicwow.github.io/Apricity/MinimalLivingRoom.png",
+		"collections": "Minimal",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
 		"name": "Beauty Koi Fish 5",
 		"author": "Matias Eckerdt",
 		"url": "https://amazingmusicwow.github.io/Apricity/BeautyKoiFish5.png",
-		"collections": "koi",
+		"collections": "Koi",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
 	},
