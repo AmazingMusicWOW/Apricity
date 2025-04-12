@@ -1,5 +1,29 @@
 [
 	{      
+		"name": "Beauty Bear Landscape",
+		"author": "Matias Eckerdt",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautyBearLandscape.png",
+		"collections": "Landscapes,Bear",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Beauty Blue Sunset Mountains",
+		"author": "Matias Eckerdt",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautyBlueSunsetMountains.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Cute Cat Surprise",
+		"author": "Matias Eckerdt",
+		"url": "https://amazingmusicwow.github.io/Apricity/CuteCatSurprise.png",
+		"collections": "Cat",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
 		"name": "Green Mountains Sunrise",
 		"author": "Matias Eckerdt",
 		"url": "https://amazingmusicwow.github.io/Apricity/GreenMountainsSunrise.png",
