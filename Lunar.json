@@ -1,5 +1,29 @@
 [
 	{      
+		"name": "Beauty WindMill River",
+		"author": "Matias Eckerdt",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautyWindmillRiver.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "New Beauty Hills",
+		"author": "Matias Eckerdt",
+		"url": "https://amazingmusicwow.github.io/Apricity/NewBeautyHills.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Gradient Desert Night",
+		"author": "Matias Eckerdt",
+		"url": "https://amazingmusicwow.github.io/Apricity/GradientDesertNight.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
 		"name": "Beauty Sunset River",
 		"author": "Matias Eckerdt",
 		"url": "https://amazingmusicwow.github.io/Apricity/BeautySunsetRiver.png",
