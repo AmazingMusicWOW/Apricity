@@ -32,6 +32,14 @@
 		"dimensions": "1440 x 3200 px"
 	},
 	{
+		"name": "Simple Mountains Land Brown",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SimpleMountainsLandBrown.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
 		"name": "Simple Mountains Land 1",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SimpleMountainsLand1.png",
