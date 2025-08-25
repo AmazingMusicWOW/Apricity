@@ -1,5 +1,29 @@
 [
 	{   
+		"name": "ColorFull Hills",
+		"author": "Matias Eckerdt",
+		"url": "https://amazingmusicwow.github.io/Apricity/ColorFullHills.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Beauty Alone Boat Night",
+		"author": "Matias Eckerdt",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautyAloneBoatNight.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Beauty Mountains Red And Blue",
+		"author": "Matias Eckerdt",
+		"url": "https://amazingmusicwow.github.io/Apricity/BeautyMountainsRedAndBlue.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
 		"name": "Purple Mountains 2",
 		"author": "Matias Eckerdt",
 		"url": "https://amazingmusicwow.github.io/Apricity/PurpleMountains2.png",
