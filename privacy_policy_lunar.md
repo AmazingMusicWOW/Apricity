@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-Lunar Wallpapers built the Apricity Icon Pack app as a Commercial app. This SERVICE is provided by Lunar Wallpapers and is intended for use as is.
+Lunar Wallpapers built the Lunar Wallpapers app as a Commercial app. This SERVICE is provided by Lunar Wallpapers and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
