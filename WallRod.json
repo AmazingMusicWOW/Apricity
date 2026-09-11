@@ -1,9 +1,105 @@
 [
 	{   
+		"name": "Minimalist Desert Colors",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalistDesertColors.png",
+		"collections": "Desert",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Minimalist Desert Colors 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalistDesertColors1.png",
+		"collections": "Desert",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Minimalist Desert Colors 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalistDesertColors2.png",
+		"collections": "Desert",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Minimalist Desert Colors 3",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalistDesertColors3.png",
+		"collections": "Desert",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Minimalist Desert Colors 4",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalistDesertColors4.png",
+		"collections": "Desert",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Minimalist Africa Tree",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalistAfricaTree.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Minimalist Africa Tree 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalistAfricaTree1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Minimalist Africa Tree 2",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalistAfricaTree2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Minimalist Africa Tree 3",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalistAfricaTree3.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Minimal Liquid 214",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalLiquid214.png",
+		"collections": "Abstract",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Minimal Liquid 215",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalLiquid215.png",
+		"collections": "Abstract",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Minimal Liquid 216",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalLiquid216.png",
+		"collections": "Abstract",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
 		"name": "Simple Deer Tree Land",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SimpleDeerTreeLand.png",
-		"collections": "Hero",
+		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
 	},
@@ -11,7 +107,7 @@
 		"name": "Simple Deer Tree Land 1",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SimpleDeerTreeLand1.png",
-		"collections": "Hero",
+		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
 	},
@@ -19,7 +115,7 @@
 		"name": "Simple Deer Tree Land 2",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SimpleDeerTreeLand2.png",
-		"collections": "Hero",
+		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
 	},
@@ -27,7 +123,7 @@
 		"name": "Simple Deer Tree Land 3",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SimpleDeerTreeLand3.png",
-		"collections": "Hero",
+		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
 	},
@@ -35,7 +131,7 @@
 		"name": "Simple Deer Tree Land 4",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SimpleDeerTreeLand4.png",
-		"collections": "Hero",
+		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
 	},
