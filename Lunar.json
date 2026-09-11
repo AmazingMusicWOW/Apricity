@@ -1,5 +1,37 @@
 [
 	{   
+		"name": "Beauty Blue And Yellow Bird",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyBlueAndYellowBird.png",
+		"collections": "Birds",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Amazing Green Desert",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmazingGreenDesert.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Beautiful Orange Sunset Mountains",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautifulOrangeSunsetMountains.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Simple Purple Lands",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SimplePurpleLands.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
 		"name": "Beauty Whale Landscape",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyWhaleLandscape.png",
